@@ -1,0 +1,103 @@
+﻿id,condition,level,question_kr,question_en
+1,개인주택이나 아파트에 홀로 거주,4,혼자 살면서 어떤 점이 가장 좋나요?,What do you enjoy most about living alone?
+2,가족과 함께 주택이나 아파트에 거주,5,가족과 함께 살면서 좋은 점은 무엇인가요?,What’s the best thing about living with your family?
+3,학교 기숙사,5,지금 살고 있는 공간에서 개인적인 시간을 어떻게 확보하나요?,How do you secure personal time in your current living space?
+4,친구나 룸메이트와 함께 주택이나 아파트에 거주,6,독립해서 살면서 생긴 문제 중 하나와 그것을 어떻게 해결했는지 말해 주세요.,Tell me about a problem you encountered living alone and how you solved it.
+5,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,6,기숙사나 공동생활 공간에서 타인과 조율하며 살았던 경험을 구체적으로 설명해 주세요.,Describe a situation where you had to adjust to living with others in a shared space.
+6,군대 막사,6,현재 거주지가 삶에 끼친 영향이나 변화를 구체적으로 설명해 주세요.,Explain how your current living arrangement has impacted your lifestyle.
+7,개인주택이나 아파트에 홀로 거주,4,현재 살고 있는 집의 가장 마음에 드는 점은 무엇인가요?,What do you like most about your current home?
+8,군대 막사,6,현재 거주지가 삶에 끼친 영향이나 변화를 구체적으로 설명해 주세요.,Explain how your current living arrangement has impacted your lifestyle.
+9,개인주택이나 아파트에 홀로 거주,4,기숙사/막사 생활을 하면서 불편했던 점은 무엇이었나요?,What was inconvenient about living in a dormitory/barracks?
+10,군대 막사,4,현재 살고 있는 집의 가장 마음에 드는 점은 무엇인가요?,What do you like most about your current home?
+11,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,기숙사/막사 생활을 하면서 불편했던 점은 무엇이었나요?,What was inconvenient about living in a dormitory/barracks?
+12,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,현재 살고 있는 집의 가장 마음에 드는 점은 무엇인가요?,What do you like most about your current home?
+13,친구나 룸메이트와 함께 주택이나 아파트에 거주,5,가족과 함께 살면서 생긴 갈등을 어떻게 해결했는지 말해 주세요.,How did you resolve a conflict that occurred while living with family?
+14,학교 기숙사,4,현재 살고 있는 집의 가장 마음에 드는 점은 무엇인가요?,What do you like most about your current home?
+15,학교 기숙사,5,가족과 함께 살면서 생긴 갈등을 어떻게 해결했는지 말해 주세요.,How did you resolve a conflict that occurred while living with family?
+16,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,5,가족과 함께 살면서 생긴 갈등을 어떻게 해결했는지 말해 주세요.,How did you resolve a conflict that occurred while living with family?
+17,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,6,기숙사나 공동생활 공간에서 타인과 조율하며 살았던 경험을 구체적으로 설명해 주세요.,Describe a situation where you had to adjust to living with others in a shared space.
+18,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,기숙사/막사 생활을 하면서 불편했던 점은 무엇이었나요?,What was inconvenient about living in a dormitory/barracks?
+19,학교 기숙사,6,현재 거주지가 삶에 끼친 영향이나 변화를 구체적으로 설명해 주세요.,Explain how your current living arrangement has impacted your lifestyle.
+20,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,6,현재 거주지가 삶에 끼친 영향이나 변화를 구체적으로 설명해 주세요.,Explain how your current living arrangement has impacted your lifestyle.
+21,개인주택이나 아파트에 홀로 거주,4,현재 살고 있는 집의 가장 마음에 드는 점은 무엇인가요?,What do you like most about your current home?
+22,군대 막사,5,가족과 함께 살면서 생긴 갈등을 어떻게 해결했는지 말해 주세요.,How did you resolve a conflict that occurred while living with family?
+23,개인주택이나 아파트에 홀로 거주,6,현재 거주지가 삶에 끼친 영향이나 변화를 구체적으로 설명해 주세요.,Explain how your current living arrangement has impacted your lifestyle.
+24,군대 막사,4,현재 살고 있는 집의 가장 마음에 드는 점은 무엇인가요?,What do you like most about your current home?
+25,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,4,거주지 주변에서 자주 가는 장소는 어디인가요?,Where do you often go around your residence?
+26,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,5,룸메이트와 함께 살면서 생긴 좋은 추억이 있다면 말씀해 주세요.,Do you have any good memories from living with a roommate?
+27,개인주택이나 아파트에 홀로 거주,5,룸메이트와 함께 살면서 생긴 좋은 추억이 있다면 말씀해 주세요.,Do you have any good memories from living with a roommate?
+28,개인주택이나 아파트에 홀로 거주,5,지금 살고 있는 공간에서 개인적인 시간을 어떻게 확보하나요?,How do you secure personal time in your current living space?
+29,군대 막사,4,현재 살고 있는 집의 가장 마음에 드는 점은 무엇인가요?,What do you like most about your current home?
+30,친구나 룸메이트와 함께 주택이나 아파트에 거주,6,현재 거주지가 삶에 끼친 영향이나 변화를 구체적으로 설명해 주세요.,Explain how your current living arrangement has impacted your lifestyle.
+31,군대 막사,4,현재 살고 있는 집의 가장 마음에 드는 점은 무엇인가요?,What do you like most about your current home?
+32,학교 기숙사,4,거주지 주변에서 자주 가는 장소는 어디인가요?,Where do you often go around your residence?
+33,친구나 룸메이트와 함께 주택이나 아파트에 거주,6,기숙사나 군대 생활을 하면서 생긴 문화적 차이를 극복한 경험이 있다면 말해 주세요.,Tell me about an experience where you overcame cultural differences in a dorm or military setting.
+34,개인주택이나 아파트에 홀로 거주,5,함께 사는 사람들과 역할을 분담한 경험이 있다면 말씀해 주세요.,Have you ever divided responsibilities with the people you live with?
+35,군대 막사,5,함께 사는 사람들과 역할을 분담한 경험이 있다면 말씀해 주세요.,Have you ever divided responsibilities with the people you live with?
+36,개인주택이나 아파트에 홀로 거주,4,룸메이트 또는 가족과 공간을 나눌 때 힘들었던 점이 있었나요?,Was there a difficulty in sharing space with a roommate or family?
+37,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,집에서 가장 자주 사용하는 공간은 어디인가요? 이유도 함께 말씀해 주세요.,"What part of your home do you use most often, and why?"
+38,학교 기숙사,6,가족과 함께 살며 책임감을 느꼈던 순간이 있다면 구체적으로 말씀해 주세요.,Describe a moment when you felt a strong sense of responsibility while living with your family.
+39,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,6,가족과 함께 살며 책임감을 느꼈던 순간이 있다면 구체적으로 말씀해 주세요.,Describe a moment when you felt a strong sense of responsibility while living with your family.
+40,학교 기숙사,5,혼자 살면서 생긴 가장 큰 변화는 무엇이었나요?,What was the biggest change after you started living alone?
+41,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,룸메이트 또는 가족과 공간을 나눌 때 힘들었던 점이 있었나요?,Was there a difficulty in sharing space with a roommate or family?
+42,개인주택이나 아파트에 홀로 거주,6,기숙사나 군대 생활을 하면서 생긴 문화적 차이를 극복한 경험이 있다면 말해 주세요.,Tell me about an experience where you overcame cultural differences in a dorm or military setting.
+43,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,집에서 가장 자주 사용하는 공간은 어디인가요? 이유도 함께 말씀해 주세요.,"What part of your home do you use most often, and why?"
+44,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,현재 거주지에서 가장 불편한 점은 무엇인가요?,What is the most inconvenient thing about your current residence?
+45,개인주택이나 아파트에 홀로 거주,4,룸메이트 또는 가족과 공간을 나눌 때 힘들었던 점이 있었나요?,Was there a difficulty in sharing space with a roommate or family?
+46,군대 막사,5,거주지를 선택할 때 가장 중요하게 생각한 기준은 무엇인가요?,What was the most important factor when choosing your current residence?
+47,학교 기숙사,4,집에서 가장 자주 사용하는 공간은 어디인가요? 이유도 함께 말씀해 주세요.,"What part of your home do you use most often, and why?"
+48,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,룸메이트 또는 가족과 공간을 나눌 때 힘들었던 점이 있었나요?,Was there a difficulty in sharing space with a roommate or family?
+49,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,룸메이트 또는 가족과 공간을 나눌 때 힘들었던 점이 있었나요?,Was there a difficulty in sharing space with a roommate or family?
+50,학교 기숙사,6,기숙사나 군대 생활을 하면서 생긴 문화적 차이를 극복한 경험이 있다면 말해 주세요.,Tell me about an experience where you overcame cultural differences in a dorm or military setting.
+51,학교 기숙사,4,현재 거주지에서 가장 불편한 점은 무엇인가요?,What is the most inconvenient thing about your current residence?
+52,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,5,혼자 살면서 생긴 가장 큰 변화는 무엇이었나요?,What was the biggest change after you started living alone?
+53,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,5,거주지를 선택할 때 가장 중요하게 생각한 기준은 무엇인가요?,What was the most important factor when choosing your current residence?
+54,군대 막사,4,룸메이트 또는 가족과 공간을 나눌 때 힘들었던 점이 있었나요?,Was there a difficulty in sharing space with a roommate or family?
+55,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,6,가족과 함께 살며 책임감을 느꼈던 순간이 있다면 구체적으로 말씀해 주세요.,Describe a moment when you felt a strong sense of responsibility while living with your family.
+56,군대 막사,6,현재의 거주지가 당신의 삶의 방식이나 루틴에 어떤 영향을 주었는지 설명해 주세요.,How has your current living situation affected your lifestyle or routine?
+57,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,집에서 가장 자주 사용하는 공간은 어디인가요? 이유도 함께 말씀해 주세요.,"What part of your home do you use most often, and why?"
+58,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,6,현재의 거주지가 당신의 삶의 방식이나 루틴에 어떤 영향을 주었는지 설명해 주세요.,How has your current living situation affected your lifestyle or routine?
+59,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,5,거주지를 선택할 때 가장 중요하게 생각한 기준은 무엇인가요?,What was the most important factor when choosing your current residence?
+60,친구나 룸메이트와 함께 주택이나 아파트에 거주,6,기숙사나 군대 생활을 하면서 생긴 문화적 차이를 극복한 경험이 있다면 말해 주세요.,Tell me about an experience where you overcame cultural differences in a dorm or military setting.
+61,학교 기숙사,4,룸메이트 또는 가족과 공간을 나눌 때 힘들었던 점이 있었나요?,Was there a difficulty in sharing space with a roommate or family?
+62,친구나 룸메이트와 함께 주택이나 아파트에 거주,6,가족과 함께 살며 책임감을 느꼈던 순간이 있다면 구체적으로 말씀해 주세요.,Describe a moment when you felt a strong sense of responsibility while living with your family.
+63,개인주택이나 아파트에 홀로 거주,4,주변 이웃들과 교류한 적이 있다면 어떤 경험이었는지 말씀해 주세요.,Have you interacted with neighbors around your home? What was the experience like?
+64,학교 기숙사,6,거주 경험이 당신의 성격 형성이나 가치관에 영향을 준 사례가 있다면 구체적으로 설명해 주세요.,Explain how your living experience shaped your personality or values with a specific example.
+65,친구나 룸메이트와 함께 주택이나 아파트에 거주,5,룸메이트나 가족과의 일상적인 대화에서 얻은 교훈이 있다면 말해 주세요.,Have you learned anything meaningful from everyday conversations with those you live with?
+66,군대 막사,5,주거 환경이 당신의 스트레스 관리에 어떤 영향을 주었나요?,How has your living environment affected your stress management?
+67,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,공용 공간을 사용할 때 지키는 본인만의 규칙이 있나요?,Do you have any personal rules for using shared spaces?
+68,친구나 룸메이트와 함께 주택이나 아파트에 거주,6,거주 경험이 당신의 성격 형성이나 가치관에 영향을 준 사례가 있다면 구체적으로 설명해 주세요.,Explain how your living experience shaped your personality or values with a specific example.
+69,개인주택이나 아파트에 홀로 거주,4,공용 공간을 사용할 때 지키는 본인만의 규칙이 있나요?,Do you have any personal rules for using shared spaces?
+70,군대 막사,4,주변 이웃들과 교류한 적이 있다면 어떤 경험이었는지 말씀해 주세요.,Have you interacted with neighbors around your home? What was the experience like?
+71,군대 막사,4,집에서 가장 편안하게 느껴지는 시간대는 언제인가요? 이유는 무엇인가요?,"What time of day do you feel most comfortable at home, and why?"
+72,군대 막사,5,현재 거주지에서 느꼈던 사회적 거리감이나 외로움에 대해 이야기해 주세요.,Tell me about a time you felt socially distant or lonely in your current living place.
+73,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,5,룸메이트나 가족과의 일상적인 대화에서 얻은 교훈이 있다면 말해 주세요.,Have you learned anything meaningful from everyday conversations with those you live with?
+74,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,6,거주 경험이 당신의 성격 형성이나 가치관에 영향을 준 사례가 있다면 구체적으로 설명해 주세요.,Explain how your living experience shaped your personality or values with a specific example.
+75,학교 기숙사,4,집에서 가장 편안하게 느껴지는 시간대는 언제인가요? 이유는 무엇인가요?,"What time of day do you feel most comfortable at home, and why?"
+76,친구나 룸메이트와 함께 주택이나 아파트에 거주,6,기숙사나 공동 생활에서 규칙을 어긴 사람과 마주친 적이 있다면 어떻게 대처했나요?,How did you deal with someone breaking rules in a shared living situation?
+77,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,공용 공간을 사용할 때 지키는 본인만의 규칙이 있나요?,Do you have any personal rules for using shared spaces?
+78,학교 기숙사,6,자신의 거주 공간을 타인과 비교하며 느낀 감정이나 생각이 있다면 이야기해 주세요.,Share your thoughts or feelings from comparing your living situation with others.
+79,개인주택이나 아파트에 홀로 거주,5,룸메이트나 가족과의 일상적인 대화에서 얻은 교훈이 있다면 말해 주세요.,Have you learned anything meaningful from everyday conversations with those you live with?
+80,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,6,자신의 거주 공간을 타인과 비교하며 느낀 감정이나 생각이 있다면 이야기해 주세요.,Share your thoughts or feelings from comparing your living situation with others.
+81,개인주택이나 아파트에 홀로 거주,6,거주 경험이 당신의 성격 형성이나 가치관에 영향을 준 사례가 있다면 구체적으로 설명해 주세요.,Explain how your living experience shaped your personality or values with a specific example.
+82,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,5,주거 환경이 당신의 스트레스 관리에 어떤 영향을 주었나요?,How has your living environment affected your stress management?
+83,개인주택이나 아파트에 홀로 거주,4,공용 공간을 사용할 때 지키는 본인만의 규칙이 있나요?,Do you have any personal rules for using shared spaces?
+84,군대 막사,6,기숙사나 공동 생활에서 규칙을 어긴 사람과 마주친 적이 있다면 어떻게 대처했나요?,How did you deal with someone breaking rules in a shared living situation?
+85,학교 기숙사,5,주거 환경이 당신의 스트레스 관리에 어떤 영향을 주었나요?,How has your living environment affected your stress management?
+86,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,6,거주 경험이 당신의 성격 형성이나 가치관에 영향을 준 사례가 있다면 구체적으로 설명해 주세요.,Explain how your living experience shaped your personality or values with a specific example.
+87,친구나 룸메이트와 함께 주택이나 아파트에 거주,4,공용 공간을 사용할 때 지키는 본인만의 규칙이 있나요?,Do you have any personal rules for using shared spaces?
+88,군대 막사,6,자신의 거주 공간을 타인과 비교하며 느낀 감정이나 생각이 있다면 이야기해 주세요.,Share your thoughts or feelings from comparing your living situation with others.
+89,학교 기숙사,4,공용 공간을 사용할 때 지키는 본인만의 규칙이 있나요?,Do you have any personal rules for using shared spaces?
+90,개인주택이나 아파트에 홀로 거주,4,공용 공간을 사용할 때 지키는 본인만의 규칙이 있나요?,Do you have any personal rules for using shared spaces?
+91,학교 기숙사,4,공용 공간을 사용할 때 지키는 본인만의 규칙이 있나요?,Do you have any personal rules for using shared spaces?
+92,친구나 룸메이트와 함께 주택이나 아파트에 거주,6,기숙사나 공동 생활에서 규칙을 어긴 사람과 마주친 적이 있다면 어떻게 대처했나요?,How did you deal with someone breaking rules in a shared living situation?
+93,개인주택이나 아파트에 홀로 거주,5,현재 거주지에서 느꼈던 사회적 거리감이나 외로움에 대해 이야기해 주세요.,Tell me about a time you felt socially distant or lonely in your current living place.
+94,군대 막사,5,현재 거주지에서 느꼈던 사회적 거리감이나 외로움에 대해 이야기해 주세요.,Tell me about a time you felt socially distant or lonely in your current living place.
+95,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,4,공용 공간을 사용할 때 지키는 본인만의 규칙이 있나요?,Do you have any personal rules for using shared spaces?
+96,군대 막사,5,현재 거주지에서 느꼈던 사회적 거리감이나 외로움에 대해 이야기해 주세요.,Tell me about a time you felt socially distant or lonely in your current living place.
+97,군대 막사,4,주변 이웃들과 교류한 적이 있다면 어떤 경험이었는지 말씀해 주세요.,Have you interacted with neighbors around your home? What was the experience like?
+98,개인주택이나 아파트에 홀로 거주,4,집에서 가장 편안하게 느껴지는 시간대는 언제인가요? 이유는 무엇인가요?,"What time of day do you feel most comfortable at home, and why?"
+99,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,5,주거 환경이 당신의 스트레스 관리에 어떤 영향을 주었나요?,How has your living environment affected your stress management?
+100,개인주택이나 아파트에 홀로 거주,4,공용 공간을 사용할 때 지키는 본인만의 규칙이 있나요?,Do you have any personal rules for using shared spaces?
+101,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,6,자신의 거주 공간을 타인과 비교하며 느낀 감정이나 생각이 있다면 이야기해 주세요.,Share your thoughts or feelings from comparing your living situation with others.
+102,가족(배우자/자녀/기타 가족 일원)과 함께 주택이나 아파트에 거주,5,룸메이트나 가족과의 일상적인 대화에서 얻은 교훈이 있다면 말해 주세요.,Have you learned anything meaningful from everyday conversations with those you live with?

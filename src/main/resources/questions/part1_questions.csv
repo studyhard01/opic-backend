@@ -1,0 +1,163 @@
+﻿id,condition,level,question_kr,question_en
+1,사업/회사,4,회사에서 어떤 업무를 담당하고 계신가요?,What kind of work do you do at your company?
+2,교사/교육자,5,어떤 과목을 가르치고 계신가요?,What subject do you teach?
+3,일 경험 없음,4,가장 최근에 했던 학교 과제 중 기억에 남는 것은 무엇인가요?,What is the most memorable school assignment you’ve done recently?
+4,사업/회사,4,회사에서 일하면서 가장 즐거운 순간은 언제였나요?,What was the most enjoyable moment while working at your company?
+5,재택근무/재택사업,4,재택근무의 장점은 무엇이라고 생각하시나요?,What do you think is the biggest advantage of working from home?
+6,교사/교육자,4,수업을 준비할 때 주로 어떤 방식으로 준비하시나요?,How do you usually prepare for your classes?
+7,일 경험 없음,5,팀 프로젝트에서 리더 역할을 맡았던 경험에 대해 이야기해 주세요.,Tell me about a time you took a leadership role in a team project.
+8,사업/회사,5,회사에서 목표를 달성하기 위해 어떤 전략을 세웠는지 설명해 주세요.,Describe a strategy you developed to achieve a goal at work.
+9,재택근무/재택사업,5,재택으로 일하면서 집중력을 유지하는 본인만의 방법이 있나요?,Do you have your own way to stay focused while working remotely?
+10,교사/교육자,5,가장 어려웠던 학생을 가르친 경험에 대해 말씀해 주세요.,Tell me about a difficult student you had to teach.
+11,일 경험 없음,6,학업 외 시간에는 보통 무엇을 하시나요? 특별한 활동이 있나요? 그 활동을 통해 배운 점이 있다면?,What do you usually do outside of school? Do you have any special activities? What have you learned from them?
+12,사업/회사,6,팀 프로젝트에서 발생했던 갈등 상황을 설명해 주세요. 어떻게 해결하셨나요? 그 경험에서 얻은 교훈은 무엇인가요?,Describe a conflict that occurred during a team project. How did you resolve it? What lesson did you learn from that experience?
+13,교사/교육자,6,학창 시절의 특별한 프로젝트나 활동에 대해 말해 주세요. 그 경험이 당신에게 어떤 영향을 미쳤나요?,Tell me about a special project or activity during your school days. How did it impact you?
+14,교사/교육자,4,하루 일과를 간단히 설명해 주세요.,Can you briefly describe your daily routine?
+15,재택근무/재택사업,6,학창 시절의 특별한 프로젝트나 활동에 대해 말해 주세요. 그 경험이 당신에게 어떤 영향을 미쳤나요?,Tell me about a special project or activity during your school days. How did it impact you?
+16,일 경험 없음,4,회사에 처음 출근했던 날을 기억하시나요? 어떤 기분이었나요?,Do you remember your first day at work? How did you feel?
+17,일 경험 없음,4,하루 일과를 간단히 설명해 주세요.,Can you briefly describe your daily routine?
+18,재택근무/재택사업,4,가장 좋아하는 수업 주제는 무엇인가요?,What is your favorite topic to teach?
+19,일 경험 없음,5,업무 중 예상치 못한 문제를 겪은 경험이 있나요? 어떻게 해결하셨나요?,Have you ever faced an unexpected issue at work? How did you handle it?
+20,사업/회사,4,회사에 처음 출근했던 날을 기억하시나요? 어떤 기분이었나요?,Do you remember your first day at work? How did you feel?
+21,일 경험 없음,5,일과 학업을 병행하면서 느낀 점이 있다면 무엇인가요?,What have you learned from juggling school and other responsibilities?
+22,재택근무/재택사업,6,수업 도중 예상치 못한 상황이 발생한 적이 있나요? 어떻게 대처하셨나요?,Have you ever faced an unexpected situation during class? How did you respond?
+23,교사/교육자,6,회사의 성장에 본인이 기여한 경험이 있다면 말씀해 주세요. 어떤 방식으로 기여하셨나요?,Tell me about a time you contributed to your company's growth. How did you contribute?
+24,교사/교육자,6,재택근무 환경을 개선하기 위해 어떤 노력을 하셨나요? 그 결과는 어땠나요?,What efforts did you make to improve your remote work environment? What was the result?
+25,교사/교육자,6,수업 도중 예상치 못한 상황이 발생한 적이 있나요? 어떻게 대처하셨나요?,Have you ever faced an unexpected situation during class? How did you respond?
+26,사업/회사,4,회사에 처음 출근했던 날을 기억하시나요? 어떤 기분이었나요?,Do you remember your first day at work? How did you feel?
+27,재택근무/재택사업,4,하루 일과를 간단히 설명해 주세요.,Can you briefly describe your daily routine?
+28,일 경험 없음,5,재택근무 중 가장 어려웠던 점은 무엇이었나요?,What was the most difficult aspect of working from home?
+29,교사/교육자,4,회사에 처음 출근했던 날을 기억하시나요? 어떤 기분이었나요?,Do you remember your first day at work? How did you feel?
+30,일 경험 없음,5,업무 중 예상치 못한 문제를 겪은 경험이 있나요? 어떻게 해결하셨나요?,Have you ever faced an unexpected issue at work? How did you handle it?
+31,재택근무/재택사업,5,일과 학업을 병행하면서 느낀 점이 있다면 무엇인가요?,What have you learned from juggling school and other responsibilities?
+32,교사/교육자,6,회사의 성장에 본인이 기여한 경험이 있다면 말씀해 주세요. 어떤 방식으로 기여하셨나요?,Tell me about a time you contributed to your company's growth. How did you contribute?
+33,재택근무/재택사업,6,회사의 성장에 본인이 기여한 경험이 있다면 말씀해 주세요. 어떤 방식으로 기여하셨나요?,Tell me about a time you contributed to your company's growth. How did you contribute?
+34,일 경험 없음,6,수업 도중 예상치 못한 상황이 발생한 적이 있나요? 어떻게 대처하셨나요?,Have you ever faced an unexpected situation during class? How did you respond?
+35,재택근무/재택사업,6,재택근무 환경을 개선하기 위해 어떤 노력을 하셨나요? 그 결과는 어땠나요?,What efforts did you make to improve your remote work environment? What was the result?
+36,일 경험 없음,5,학생들의 참여를 유도하기 위해 어떤 방법을 사용하시나요?,What strategies do you use to encourage student participation?
+37,일 경험 없음,6,학창 시절의 특별한 프로젝트나 활동에 대해 말해 주세요. 그 경험이 당신에게 어떤 영향을 미쳤나요?,Tell me about a special project or activity during your school days. How did it impact you?
+38,일 경험 없음,5,학생들의 참여를 유도하기 위해 어떤 방법을 사용하시나요?,What strategies do you use to encourage student participation?
+39,재택근무/재택사업,5,일과 학업을 병행하면서 느낀 점이 있다면 무엇인가요?,What have you learned from juggling school and other responsibilities?
+40,일 경험 없음,4,가장 좋아하는 수업 주제는 무엇인가요?,What is your favorite topic to teach?
+41,사업/회사,5,재택근무 중 가장 어려웠던 점은 무엇이었나요?,What was the most difficult aspect of working from home?
+42,재택근무/재택사업,6,회사의 성장에 본인이 기여한 경험이 있다면 말씀해 주세요. 어떤 방식으로 기여하셨나요?,Tell me about a time you contributed to your company's growth. How did you contribute?
+43,일 경험 없음,5,업무 중 예상치 못한 문제를 겪은 경험이 있나요? 어떻게 해결하셨나요?,Have you ever faced an unexpected issue at work? How did you handle it?
+44,사업/회사,5,일과 학업을 병행하면서 느낀 점이 있다면 무엇인가요?,What have you learned from juggling school and other responsibilities?
+45,재택근무/재택사업,4,학교에서 가장 좋아했던 과목은 무엇이었나요?,What was your favorite subject in school?
+46,일 경험 없음,5,학생들의 참여를 유도하기 위해 어떤 방법을 사용하시나요?,What strategies do you use to encourage student participation?
+47,재택근무/재택사업,4,가장 좋아하는 수업 주제는 무엇인가요?,What is your favorite topic to teach?
+48,사업/회사,6,학창 시절의 특별한 프로젝트나 활동에 대해 말해 주세요. 그 경험이 당신에게 어떤 영향을 미쳤나요?,Tell me about a special project or activity during your school days. How did it impact you?
+49,교사/교육자,5,학생들의 참여를 유도하기 위해 어떤 방법을 사용하시나요?,What strategies do you use to encourage student participation?
+50,교사/교육자,6,회사의 성장에 본인이 기여한 경험이 있다면 말씀해 주세요. 어떤 방식으로 기여하셨나요?,Tell me about a time you contributed to your company's growth. How did you contribute?
+51,일 경험 없음,4,하루 일과를 간단히 설명해 주세요.,Can you briefly describe your daily routine?
+52,일 경험 없음,4,학교에서 가장 좋아했던 과목은 무엇이었나요?,What was your favorite subject in school?
+53,재택근무/재택사업,6,학창 시절의 특별한 프로젝트나 활동에 대해 말해 주세요. 그 경험이 당신에게 어떤 영향을 미쳤나요?,Tell me about a special project or activity during your school days. How did it impact you?
+54,재택근무/재택사업,4,가장 좋아하는 수업 주제는 무엇인가요?,What is your favorite topic to teach?
+55,사업/회사,6,수업 도중 예상치 못한 상황이 발생한 적이 있나요? 어떻게 대처하셨나요?,Have you ever faced an unexpected situation during class? How did you respond?
+56,사업/회사,4,하루 일과를 간단히 설명해 주세요.,Can you briefly describe your daily routine?
+57,사업/회사,5,재택근무 중 가장 어려웠던 점은 무엇이었나요?,What was the most difficult aspect of working from home?
+58,사업/회사,5,업무 중 예상치 못한 문제를 겪은 경험이 있나요? 어떻게 해결하셨나요?,Have you ever faced an unexpected issue at work? How did you handle it?
+59,일 경험 없음,4,회사에 처음 출근했던 날을 기억하시나요? 어떤 기분이었나요?,Do you remember your first day at work? How did you feel?
+60,교사/교육자,6,학창 시절의 특별한 프로젝트나 활동에 대해 말해 주세요. 그 경험이 당신에게 어떤 영향을 미쳤나요?,Tell me about a special project or activity during your school days. How did it impact you?
+61,사업/회사,5,업무 중 예상치 못한 문제를 겪은 경험이 있나요? 어떻게 해결하셨나요?,Have you ever faced an unexpected issue at work? How did you handle it?
+62,재택근무/재택사업,4,하루 일과를 간단히 설명해 주세요.,Can you briefly describe your daily routine?
+63,사업/회사,4,직장에서 가장 즐거웠던 순간은 언제였나요?,What was the most enjoyable moment at your workplace?
+64,재택근무/재택사업,6,직장에서 새로운 프로젝트를 주도했던 경험이 있다면 말씀해 주세요. 어떤 역할을 했고 결과는 어땠나요?,Tell me about a time you led a new project at work. What was your role and what was the outcome?
+65,사업/회사,4,학창 시절의 하루 일과를 간단히 설명해 주세요.,Describe a typical day from your school life.
+66,재택근무/재택사업,4,"일 경험이 없다면, 직업을 선택할 때 중요하게 생각하는 요소는 무엇인가요?","If you have no job experience, what do you consider important when choosing a job?"
+67,교사/교육자,5,수업 중 학생들의 질문에 대답하기 어려웠던 경험이 있나요?,Have you ever had a hard time answering a student’s question during class?
+68,교사/교육자,5,수업 중 학생들의 질문에 대답하기 어려웠던 경험이 있나요?,Have you ever had a hard time answering a student’s question during class?
+69,재택근무/재택사업,5,학교에서 과제 마감이 겹칠 때 어떻게 시간 관리를 하시나요?,How do you manage your time when multiple assignments are due at once?
+70,재택근무/재택사업,6,재택근무 중 가족이나 환경으로 인한 방해 요소를 어떻게 극복했는지 설명해 주세요.,How did you overcome distractions from family or environment while working remotely?
+71,재택근무/재택사업,4,최근에 맡은 업무 중 기억에 남는 일이 있나요?,Was there a memorable task you recently worked on?
+72,재택근무/재택사업,5,팀원과의 의견 차이를 해결했던 경험이 있다면 말씀해 주세요.,Tell me about a time you resolved a disagreement with a teammate.
+73,재택근무/재택사업,4,재택근무 중 자주 사용하는 도구나 앱이 있다면 무엇인가요?,What tools or apps do you often use while working from home?
+74,일 경험 없음,5,집중이 안 될 때 어떻게 다시 집중을 회복하나요?,How do you regain focus when distracted?
+75,교사/교육자,6,학급에서 다양한 배경의 학생들을 가르쳤던 경험이 있다면 말씀해 주세요. 어떻게 수업을 조정하셨나요?,Have you ever taught students from diverse backgrounds? How did you adjust your class?
+76,재택근무/재택사업,5,집중이 안 될 때 어떻게 다시 집중을 회복하나요?,How do you regain focus when distracted?
+77,재택근무/재택사업,5,업무 효율을 높이기 위해 사용한 전략이 있다면 무엇인가요?,What strategy have you used to improve your work efficiency?
+78,일 경험 없음,4,직장에서 가장 즐거웠던 순간은 언제였나요?,What was the most enjoyable moment at your workplace?
+79,교사/교육자,6,학급에서 다양한 배경의 학생들을 가르쳤던 경험이 있다면 말씀해 주세요. 어떻게 수업을 조정하셨나요?,Have you ever taught students from diverse backgrounds? How did you adjust your class?
+80,교사/교육자,4,재택근무 중 자주 사용하는 도구나 앱이 있다면 무엇인가요?,What tools or apps do you often use while working from home?
+81,사업/회사,4,직장에서 가장 즐거웠던 순간은 언제였나요?,What was the most enjoyable moment at your workplace?
+82,사업/회사,6,자신의 커리어 목표를 이루기 위해 지금까지 해온 노력에 대해 이야기해 주세요.,What have you done so far to achieve your career goals?
+83,교사/교육자,5,팀원과의 의견 차이를 해결했던 경험이 있다면 말씀해 주세요.,Tell me about a time you resolved a disagreement with a teammate.
+84,사업/회사,5,집중이 안 될 때 어떻게 다시 집중을 회복하나요?,How do you regain focus when distracted?
+85,일 경험 없음,6,학급에서 다양한 배경의 학생들을 가르쳤던 경험이 있다면 말씀해 주세요. 어떻게 수업을 조정하셨나요?,Have you ever taught students from diverse backgrounds? How did you adjust your class?
+86,재택근무/재택사업,5,업무 효율을 높이기 위해 사용한 전략이 있다면 무엇인가요?,What strategy have you used to improve your work efficiency?
+87,재택근무/재택사업,4,재택근무 중 자주 사용하는 도구나 앱이 있다면 무엇인가요?,What tools or apps do you often use while working from home?
+88,교사/교육자,4,재택근무 중 자주 사용하는 도구나 앱이 있다면 무엇인가요?,What tools or apps do you often use while working from home?
+89,교사/교육자,6,"학교 외의 활동(동아리, 봉사 등) 중 가장 의미 있었던 경험은 무엇인가요? 그것이 어떤 영향을 주었나요?","What was the most meaningful extracurricular activity you participated in, and how did it affect you?"
+90,일 경험 없음,4,학창 시절의 하루 일과를 간단히 설명해 주세요.,Describe a typical day from your school life.
+91,사업/회사,5,업무 효율을 높이기 위해 사용한 전략이 있다면 무엇인가요?,What strategy have you used to improve your work efficiency?
+92,교사/교육자,6,"학교 외의 활동(동아리, 봉사 등) 중 가장 의미 있었던 경험은 무엇인가요? 그것이 어떤 영향을 주었나요?","What was the most meaningful extracurricular activity you participated in, and how did it affect you?"
+93,일 경험 없음,4,직장에서 가장 즐거웠던 순간은 언제였나요?,What was the most enjoyable moment at your workplace?
+94,사업/회사,4,학창 시절의 하루 일과를 간단히 설명해 주세요.,Describe a typical day from your school life.
+95,사업/회사,6,자신의 커리어 목표를 이루기 위해 지금까지 해온 노력에 대해 이야기해 주세요.,What have you done so far to achieve your career goals?
+96,사업/회사,4,"일 경험이 없다면, 직업을 선택할 때 중요하게 생각하는 요소는 무엇인가요?","If you have no job experience, what do you consider important when choosing a job?"
+97,사업/회사,5,수업 중 학생들의 질문에 대답하기 어려웠던 경험이 있나요?,Have you ever had a hard time answering a student’s question during class?
+98,사업/회사,4,가르치는 과목에서 학생들이 가장 흥미를 느끼는 주제는 무엇인가요?,What topic do your students find most interesting in your subject?
+99,교사/교육자,4,학창 시절의 하루 일과를 간단히 설명해 주세요.,Describe a typical day from your school life.
+100,교사/교육자,4,재택근무 중 자주 사용하는 도구나 앱이 있다면 무엇인가요?,What tools or apps do you often use while working from home?
+101,교사/교육자,5,팀원과의 의견 차이를 해결했던 경험이 있다면 말씀해 주세요.,Tell me about a time you resolved a disagreement with a teammate.
+102,교사/교육자,6,"학교 외의 활동(동아리, 봉사 등) 중 가장 의미 있었던 경험은 무엇인가요? 그것이 어떤 영향을 주었나요?","What was the most meaningful extracurricular activity you participated in, and how did it affect you?"
+103,교사/교육자,6,학급에서 다양한 배경의 학생들을 가르쳤던 경험이 있다면 말씀해 주세요. 어떻게 수업을 조정하셨나요?,Have you ever taught students from diverse backgrounds? How did you adjust your class?
+104,일 경험 없음,5,팀원과의 의견 차이를 해결했던 경험이 있다면 말씀해 주세요.,Tell me about a time you resolved a disagreement with a teammate.
+105,재택근무/재택사업,6,학급에서 다양한 배경의 학생들을 가르쳤던 경험이 있다면 말씀해 주세요. 어떻게 수업을 조정하셨나요?,Have you ever taught students from diverse backgrounds? How did you adjust your class?
+106,일 경험 없음,6,직장에서 새로운 프로젝트를 주도했던 경험이 있다면 말씀해 주세요. 어떤 역할을 했고 결과는 어땠나요?,Tell me about a time you led a new project at work. What was your role and what was the outcome?
+107,일 경험 없음,6,자신의 커리어 목표를 이루기 위해 지금까지 해온 노력에 대해 이야기해 주세요.,What have you done so far to achieve your career goals?
+108,일 경험 없음,6,"학교 외의 활동(동아리, 봉사 등) 중 가장 의미 있었던 경험은 무엇인가요? 그것이 어떤 영향을 주었나요?","What was the most meaningful extracurricular activity you participated in, and how did it affect you?"
+109,재택근무/재택사업,4,"일 경험이 없다면, 직업을 선택할 때 중요하게 생각하는 요소는 무엇인가요?","If you have no job experience, what do you consider important when choosing a job?"
+110,교사/교육자,5,업무 효율을 높이기 위해 사용한 전략이 있다면 무엇인가요?,What strategy have you used to improve your work efficiency?
+111,사업/회사,4,가르치는 과목에서 학생들이 가장 흥미를 느끼는 주제는 무엇인가요?,What topic do your students find most interesting in your subject?
+112,일 경험 없음,4,학창 시절의 하루 일과를 간단히 설명해 주세요.,Describe a typical day from your school life.
+113,교사/교육자,5,"학교 생활에서 가장 스트레스를 받았던 순간은 언제였고, 어떻게 극복하셨나요?","What was your most stressful moment in school, and how did you overcome it?"
+114,일 경험 없음,4,최근에 읽은 책이나 본 강의가 있다면 소개해 주세요.,Tell me about a book or lecture you recently read or watched.
+115,사업/회사,6,재택근무 중 협업을 위해 어떤 온라인 도구를 사용했고 효과적이었나요?,"Which online tools did you use for collaboration while working remotely, and were they effective?"
+116,재택근무/재택사업,6,자신의 진로 선택에 영향을 준 사건이나 사람에 대해 이야기해 주세요.,Talk about an event or person that influenced your career choice.
+117,재택근무/재택사업,4,최근에 읽은 책이나 본 강의가 있다면 소개해 주세요.,Tell me about a book or lecture you recently read or watched.
+118,일 경험 없음,5,자기계발을 위해 어떤 활동을 하고 있나요?,What kind of activities do you do for self-development?
+119,일 경험 없음,6,"당신이 가진 가장 큰 강점은 무엇이라고 생각하며, 그것이 어떻게 발휘된 적이 있나요?","What do you consider your greatest strength, and when have you demonstrated it?"
+120,사업/회사,5,"학교 생활에서 가장 스트레스를 받았던 순간은 언제였고, 어떻게 극복하셨나요?","What was your most stressful moment in school, and how did you overcome it?"
+121,사업/회사,6,직장에서 새로운 동료를 교육한 경험이 있다면 말해 주세요. 어떤 방식으로 도왔고 어떤 결과가 있었나요?,Have you ever trained a new colleague? How did you help them and what was the result?
+122,사업/회사,4,당신의 평일 하루 일과는 어떤가요?,What does a typical weekday look like for you?
+123,재택근무/재택사업,6,학습 능력이 다양한 학생들을 어떻게 지도했는지에 대해 설명해 주세요.,How did you support students with different learning abilities?
+124,일 경험 없음,6,"당신이 가진 가장 큰 강점은 무엇이라고 생각하며, 그것이 어떻게 발휘된 적이 있나요?","What do you consider your greatest strength, and when have you demonstrated it?"
+125,교사/교육자,6,자신의 진로 선택에 영향을 준 사건이나 사람에 대해 이야기해 주세요.,Talk about an event or person that influenced your career choice.
+126,재택근무/재택사업,6,자신의 진로 선택에 영향을 준 사건이나 사람에 대해 이야기해 주세요.,Talk about an event or person that influenced your career choice.
+127,일 경험 없음,5,재택근무 환경을 효율적으로 만들기 위해 어떤 노력을 했나요?,What did you do to create a productive home office environment?
+128,재택근무/재택사업,6,재택근무 중 협업을 위해 어떤 온라인 도구를 사용했고 효과적이었나요?,"Which online tools did you use for collaboration while working remotely, and were they effective?"
+129,재택근무/재택사업,4,가르치는 것 중에서 가장 보람을 느꼈던 순간은 언제였나요?,When did you feel most rewarded while teaching?
+130,재택근무/재택사업,6,"당신이 가진 가장 큰 강점은 무엇이라고 생각하며, 그것이 어떻게 발휘된 적이 있나요?","What do you consider your greatest strength, and when have you demonstrated it?"
+131,일 경험 없음,6,학습 능력이 다양한 학생들을 어떻게 지도했는지에 대해 설명해 주세요.,How did you support students with different learning abilities?
+132,일 경험 없음,6,학습 능력이 다양한 학생들을 어떻게 지도했는지에 대해 설명해 주세요.,How did you support students with different learning abilities?
+133,재택근무/재택사업,6,직장에서 새로운 동료를 교육한 경험이 있다면 말해 주세요. 어떤 방식으로 도왔고 어떤 결과가 있었나요?,Have you ever trained a new colleague? How did you help them and what was the result?
+134,교사/교육자,6,직장에서 새로운 동료를 교육한 경험이 있다면 말해 주세요. 어떤 방식으로 도왔고 어떤 결과가 있었나요?,Have you ever trained a new colleague? How did you help them and what was the result?
+135,교사/교육자,5,직장에서 맡았던 프로젝트 중 가장 어려웠던 것은 무엇이었나요?,What was the most difficult project you handled at work?
+136,사업/회사,5,직장에서 맡았던 프로젝트 중 가장 어려웠던 것은 무엇이었나요?,What was the most difficult project you handled at work?
+137,일 경험 없음,4,당신의 평일 하루 일과는 어떤가요?,What does a typical weekday look like for you?
+138,일 경험 없음,4,재택근무를 하면서 좋아하는 점은 무엇인가요?,What do you like most about working from home?
+139,사업/회사,4,당신의 평일 하루 일과는 어떤가요?,What does a typical weekday look like for you?
+140,사업/회사,5,직장에서 맡았던 프로젝트 중 가장 어려웠던 것은 무엇이었나요?,What was the most difficult project you handled at work?
+141,교사/교육자,5,자기계발을 위해 어떤 활동을 하고 있나요?,What kind of activities do you do for self-development?
+142,일 경험 없음,4,하루 일과 중 가장 즐기는 시간은 언제인가요?,What is your favorite time of the day and why?
+143,사업/회사,4,하루 일과 중 가장 즐기는 시간은 언제인가요?,What is your favorite time of the day and why?
+144,재택근무/재택사업,4,가르치는 것 중에서 가장 보람을 느꼈던 순간은 언제였나요?,When did you feel most rewarded while teaching?
+145,일 경험 없음,6,학습 능력이 다양한 학생들을 어떻게 지도했는지에 대해 설명해 주세요.,How did you support students with different learning abilities?
+146,교사/교육자,4,당신의 평일 하루 일과는 어떤가요?,What does a typical weekday look like for you?
+147,일 경험 없음,5,재택근무 환경을 효율적으로 만들기 위해 어떤 노력을 했나요?,What did you do to create a productive home office environment?
+148,일 경험 없음,4,가르치는 것 중에서 가장 보람을 느꼈던 순간은 언제였나요?,When did you feel most rewarded while teaching?
+149,재택근무/재택사업,4,하루 일과 중 가장 즐기는 시간은 언제인가요?,What is your favorite time of the day and why?
+150,사업/회사,5,학생들이 수업에 몰입하지 못할 때 어떻게 대처하시나요?,How do you deal with students losing focus during class?
+151,일 경험 없음,6,직장에서 새로운 동료를 교육한 경험이 있다면 말해 주세요. 어떤 방식으로 도왔고 어떤 결과가 있었나요?,Have you ever trained a new colleague? How did you help them and what was the result?
+152,사업/회사,6,학습 능력이 다양한 학생들을 어떻게 지도했는지에 대해 설명해 주세요.,How did you support students with different learning abilities?
+153,재택근무/재택사업,4,최근에 읽은 책이나 본 강의가 있다면 소개해 주세요.,Tell me about a book or lecture you recently read or watched.
+154,재택근무/재택사업,5,"학교 생활에서 가장 스트레스를 받았던 순간은 언제였고, 어떻게 극복하셨나요?","What was your most stressful moment in school, and how did you overcome it?"
+155,일 경험 없음,4,하루 일과 중 가장 즐기는 시간은 언제인가요?,What is your favorite time of the day and why?
+156,일 경험 없음,4,최근에 읽은 책이나 본 강의가 있다면 소개해 주세요.,Tell me about a book or lecture you recently read or watched.
+157,교사/교육자,5,"학교 생활에서 가장 스트레스를 받았던 순간은 언제였고, 어떻게 극복하셨나요?","What was your most stressful moment in school, and how did you overcome it?"
+158,일 경험 없음,6,재택근무 중 협업을 위해 어떤 온라인 도구를 사용했고 효과적이었나요?,"Which online tools did you use for collaboration while working remotely, and were they effective?"
+159,일 경험 없음,6,자신의 진로 선택에 영향을 준 사건이나 사람에 대해 이야기해 주세요.,Talk about an event or person that influenced your career choice.
+160,사업/회사,6,"당신이 가진 가장 큰 강점은 무엇이라고 생각하며, 그것이 어떻게 발휘된 적이 있나요?","What do you consider your greatest strength, and when have you demonstrated it?"
+161,일 경험 없음,6,직장에서 새로운 동료를 교육한 경험이 있다면 말해 주세요. 어떤 방식으로 도왔고 어떤 결과가 있었나요?,Have you ever trained a new colleague? How did you help them and what was the result?
+162,일 경험 없음,4,하루 일과 중 가장 즐기는 시간은 언제인가요?,What is your favorite time of the day and why?

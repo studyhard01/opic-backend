@@ -1,0 +1,1044 @@
+﻿id,tag,level,question_kr,question_en
+1,영화 보기,4,최근에 본 영화에 대해 이야기해주세요.,Tell me about a movie you watched recently.
+2,음악 감상하기,5,좋아하는 음악 장르에 대해 말해보세요.,Tell me about your favorite music genre.
+3,자전거,6,자전거를 주로 어디서 타시나요?,Where do you usually ride your bicycle?
+4,수영,4,수영을 배운 적이 있나요?,Have you ever learned how to swim?
+5,수영,4,수영을 얼마나 자주 하나요?,How often do you go swimming?
+6,수영,4,어디서 수영하는 걸 좋아하나요?,Where do you usually swim?
+7,수영,4,수영장과 해변 중 어느 곳을 더 좋아하나요?,Do you prefer swimming in a pool or at the beach?
+8,수영,4,수영을 시작하게 된 계기는 무엇인가요?,Why did you start swimming?
+9,수영,5,수영하면서 있었던 기억에 남는 경험이 있나요?,Do you have a memorable experience related to swimming?
+10,수영,5,수영이 당신의 건강에 어떤 도움이 되었다고 생각하나요?,How do you think swimming has helped your health?
+11,수영,5,수영을 할 때 가장 좋아하는 스타일은 무엇인가요?,What is your favorite swimming style?
+12,수영,5,수영을 통해 느끼는 가장 큰 장점은 무엇인가요?,What is the biggest benefit you get from swimming?
+13,수영,5,수영 외에 즐겨 하는 수상 활동은 무엇인가요?,"Besides swimming, what other water activities do you enjoy?"
+14,수영,6,수영을 처음 배웠을 때의 기억을 자세히 설명해보세요.,Describe in detail how you first learned to swim.
+15,수영,6,"가장 기억에 남는 수영 장소는 어디였고, 누구와 갔으며 왜 기억에 남나요?","Where was the most memorable place you swam, who were you with, and why is it memorable?"
+16,수영,6,수영을 하면서 느낀 성취감이나 도전 경험에 대해 말해주세요.,Talk about a time you felt accomplished or challenged while swimming.
+17,수영,6,수영을 하면서 생긴 부상이나 위험했던 순간이 있다면 설명해주세요.,Describe any injury or dangerous moment you experienced while swimming.
+18,수영,6,수영이 삶의 스트레스를 줄이는 데 어떤 영향을 주는지 설명해주세요.,Explain how swimming helps reduce stress in your life.
+19,음악 감상하기,4,하루 중 언제 음악을 가장 자주 듣나요?,When do you usually listen to music during the day?
+20,음악 감상하기,4,주로 어떤 장르의 음악을 좋아하나요?,What genre of music do you prefer?
+21,음악 감상하기,4,음악을 어디에서 주로 듣나요?,Where do you usually listen to music?
+22,음악 감상하기,4,음악을 들을 때 사용하는 기기가 있나요?,What device do you use to listen to music?
+23,음악 감상하기,4,"음악을 혼자 듣는 걸 좋아하나요, 다른 사람과 함께 듣는 걸 좋아하나요?",Do you prefer listening to music alone or with others?
+24,음악 감상하기,5,음악이 당신의 기분에 어떤 영향을 주나요?,How does music affect your mood?
+25,음악 감상하기,5,특별한 상황이나 감정일 때 듣는 음악이 있나요?,Do you have specific music you listen to in certain situations or moods?
+26,음악 감상하기,5,좋아하는 가수나 밴드에 대해 이야기해주세요.,Tell me about your favorite singer or band.
+27,음악 감상하기,5,실시간 스트리밍 서비스와 음반 중 어떤 것을 선호하나요?,Do you prefer music streaming services or physical albums?
+28,음악 감상하기,5,음악 감상을 통해 얻는 가장 큰 만족감은 무엇인가요?,What is the greatest satisfaction you get from listening to music?
+29,음악 감상하기,6,음악 감상을 통해 위로받았던 기억이 있다면 말해주세요.,Share a time when music comforted you.
+30,음악 감상하기,6,음악을 감상하면서 감정이 바뀌었던 경험에 대해 자세히 설명해주세요.,Describe in detail a time when your emotions changed through music.
+31,음악 감상하기,6,다른 사람에게 음악을 추천해본 경험이 있다면 어떤 곡이었고 왜였나요?,Have you ever recommended music to someone? What song and why?
+32,음악 감상하기,6,음악이 당신의 일상에 미치는 영향에 대해 설명해주세요.,Explain how music influences your daily life.
+33,음악 감상하기,6,음악 감상이 스트레스 해소에 어떤 역할을 한다고 생각하나요?,What role does music play in relieving your stress?
+34,영화 보기,4,최근에 본 영화 제목은 무엇인가요?,What is the title of the movie you watched recently?
+35,영화 보기,4,영화를 보러 얼마나 자주 가나요?,How often do you go to the movies?
+36,영화 보기,4,어떤 장르의 영화를 가장 좋아하나요?,What genre of movies do you like the most?
+37,영화 보기,4,"혼자 보는 걸 선호하나요, 함께 보는 걸 선호하나요?",Do you prefer watching movies alone or with others?
+38,영화 보기,4,영화관과 스트리밍 중 어느 것을 선호하나요?,Do you prefer movie theaters or streaming services?
+39,영화 보기,5,기억에 남는 영화 한 편에 대해 이야기해주세요.,Tell me about a movie that left a strong impression on you.
+40,영화 보기,5,좋아하는 배우가 있다면 누구인가요? 이유는요?,"Who is your favorite actor or actress, and why?"
+41,영화 보기,5,최근에 본 영화에서 인상 깊었던 장면은 무엇이었나요?,What was the most impressive scene from a recent movie?
+42,영화 보기,5,영화를 통해 어떤 감정을 느끼나요?,What kind of emotions do you feel when watching movies?
+43,영화 보기,5,외국 영화를 자주 보시나요? 언어 장벽은 없었나요?,Do you often watch foreign films? Was the language a barrier?
+44,영화 보기,6,어떤 영화가 당신의 인생에 영향을 주었나요? 구체적으로 설명해주세요.,"Which movie influenced your life, and how?"
+45,영화 보기,6,영화를 통해 배운 교훈이나 메시지가 있다면 무엇인가요?,What lesson or message have you learned from a movie?
+46,영화 보기,6,최근에 본 영화의 결말이 만족스러웠나요? 왜 그렇게 생각하나요?,Were you satisfied with the ending of a recent movie? Why or why not?
+47,영화 보기,6,같은 영화를 반복해서 본 적이 있나요? 왜 다시 봤나요?,Have you ever watched the same movie multiple times? Why?
+48,영화 보기,6,당신이 영화감독이라면 어떤 영화를 만들고 싶나요?,"If you were a director, what kind of movie would you make?"
+49,자전거,4,자전거를 탈 줄 아시나요?,Can you ride a bicycle?
+50,자전거,4,자전거를 얼마나 자주 타시나요?,How often do you ride a bicycle?
+51,자전거,4,어디서 자전거를 주로 타시나요?,Where do you usually ride your bike?
+52,자전거,4,"자전거를 혼자 타는 걸 좋아하나요, 함께 타는 걸 좋아하나요?",Do you prefer riding a bike alone or with others?
+53,자전거,4,자전거를 처음 배운 시기를 기억하시나요?,Do you remember when you first learned to ride a bike?
+54,자전거,5,자전거를 타면서 겪은 기억에 남는 일이 있나요?,Do you have a memorable experience while riding a bike?
+55,자전거,5,당신이 선호하는 자전거 코스는 어떤 곳인가요?,What kind of bike routes do you prefer?
+56,자전거,5,자전거를 타면서 느끼는 장점은 무엇인가요?,What are the benefits you feel when riding a bike?
+57,자전거,5,자전거를 타면서 겪은 위험한 순간이 있었나요?,Have you ever had a dangerous moment while riding?
+58,자전거,5,"자전거를 운동의 일환으로 생각하나요, 아니면 취미인가요?",Do you consider biking a form of exercise or just a hobby?
+59,자전거,6,자전거 타기가 당신의 삶에 어떤 영향을 주었는지 설명해주세요.,How has biking influenced your life?
+60,자전거,6,자전거를 타고 여행한 경험이 있다면 그 과정을 자세히 설명해주세요.,Describe in detail your experience traveling by bicycle.
+61,자전거,6,기후나 계절에 따라 자전거 타는 습관이 어떻게 달라지나요?,How does weather or season affect your biking habits?
+62,자전거,6,자전거 문화가 잘 발달된 도시를 방문한 경험이 있나요? 인상 깊었던 점은요?,Have you been to a city with a strong biking culture? What impressed you?
+63,자전거,6,자전거 이용을 늘리기 위한 사회적 지원은 무엇이 필요하다고 생각하나요?,What kind of public support do you think is needed to encourage bike use?
+64,책 읽기,4,최근에 읽은 책이 있나요?,Have you read any books recently?
+65,책 읽기,4,주로 어떤 장르의 책을 읽나요?,What genre of books do you usually read?
+66,책 읽기,4,하루에 보통 얼마 동안 책을 읽나요?,How much time do you usually spend reading in a day?
+67,책 읽기,4,종이책과 전자책 중 무엇을 선호하나요?,Do you prefer physical books or e-books?
+68,책 읽기,4,보통 책을 어디서 읽나요?,Where do you usually read books?
+69,책 읽기,5,기억에 남는 책 한 권에 대해 이야기해주세요.,Tell me about a book that left a strong impression on you.
+70,책 읽기,5,좋아하는 작가가 있다면 누구인가요? 이유는요?,Who is your favorite author and why?
+71,책 읽기,5,책을 읽고 감정이 바뀐 적이 있나요?,Have you ever had your emotions changed by a book?
+72,책 읽기,5,친구나 가족에게 책을 추천해본 적이 있나요?,Have you ever recommended a book to someone?
+73,책 읽기,5,책을 통해 배운 가장 중요한 교훈은 무엇인가요?,What is the most important lesson you have learned from a book?
+74,책 읽기,6,책을 통해 삶의 관점이 바뀐 적이 있다면 이야기해주세요.,Share a time when a book changed your perspective on life.
+75,책 읽기,6,특정 책이 당신의 사고방식에 어떤 영향을 주었나요?,How did a specific book influence your way of thinking?
+76,책 읽기,6,영화로 만들고 싶은 책이 있다면 어떤 장면을 강조하고 싶나요?,"If you could make a book into a movie, what scene would you highlight?"
+77,책 읽기,6,다시 읽고 싶은 책이 있다면 이유는 무엇인가요?,What book would you like to read again and why?
+78,책 읽기,6,독서를 통해 스트레스를 해소했던 경험이 있다면 말해주세요.,Tell me about a time when reading helped you relieve stress.
+79,쇼핑하기,4,쇼핑은 얼마나 자주 하나요?,How often do you go shopping?
+80,쇼핑하기,4,보통 어떤 물건을 사나요?,What kinds of things do you usually buy?
+81,쇼핑하기,4,온라인 쇼핑과 오프라인 쇼핑 중 어떤 걸 더 좋아하나요?,Do you prefer online or offline shopping?
+82,쇼핑하기,4,"쇼핑을 혼자 하는 걸 좋아하나요, 함께 하는 걸 좋아하나요?",Do you prefer shopping alone or with someone?
+83,쇼핑하기,4,쇼핑할 때 가장 중요하게 생각하는 요소는 무엇인가요?,What is the most important factor when you shop?
+84,쇼핑하기,5,기억에 남는 쇼핑 경험이 있다면 이야기해주세요.,Tell me about a memorable shopping experience.
+85,쇼핑하기,5,실패한 쇼핑 경험이 있다면 말해주세요.,Have you ever had a failed shopping experience?
+86,쇼핑하기,5,세일이나 할인 기간에 쇼핑을 많이 하시나요?,Do you usually shop more during sales or discount events?
+87,쇼핑하기,5,쇼핑할 때 구매 결정에 영향을 주는 요소는 무엇인가요?,"What influences your decision when shopping (ads, reviews, etc.)?"
+88,쇼핑하기,5,쇼핑이 기분을 좋게 만든 적이 있나요?,Has shopping ever improved your mood?
+89,쇼핑하기,6,소비 습관이 당신의 삶에 어떤 영향을 준다고 생각하나요?,How do you think your spending habits affect your life?
+90,쇼핑하기,6,충동구매를 했던 경험과 그 결과에 대해 이야기해주세요.,Talk about an impulse purchase you made and what happened.
+91,쇼핑하기,6,환경을 생각한 쇼핑을 한 적이 있나요? 어떤 제품이었나요?,Have you ever made an eco-friendly purchase? What was it?
+92,쇼핑하기,6,쇼핑을 통해 자신을 보상한다고 느낀 적이 있나요?,Have you ever felt that shopping was a way to reward yourself?
+93,쇼핑하기,6,당신의 쇼핑 습관이 가족이나 친구와 어떻게 다른가요?,How is your shopping style different from that of your family or friends?
+94,크로켓,4,크로켓를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about croquet?
+95,미식축구,5,미식축구를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does American football have on your daily life or mood?
+96,주거 개선,5,주거 개선를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does improving living space have on your daily life or mood?
+97,스키/스노보드,4,스키/스노보드를 하게 된 특별한 계기가 있었나요?,Do you prefer to do skiing/snowboarding alone or with others? Why?
+98,태권도,4,태권도를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do 태권도 alone or with others? Why?
+99,집에서 보내는 휴가,5,집에서 보내는 휴가와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,Have you ever recommended staycations to someone? What was their reaction?
+100,자전거,6,자전거를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,"If you couldn’t enjoy biking anymore, what would you replace it with and why?"
+101,자원봉사,5,자원봉사를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,"What challenges have you faced while doing volunteering, and how did you overcome them?"
+102,국내 여행,5,국내 여행를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended domestic travel to someone? What was their reaction?
+103,혼자 노래 부르거나 합창,5,혼자 노래 부르거나 합창를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended singing alone or in choir to someone? What was their reaction?
+104,TV시청 하기,4,TV시청 하기는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in watching TV and where do you usually go?
+105,농구,6,농구를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to basketball.
+106,공원 가기,4,공원 가기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do going to parks alone or with others? Why?
+107,미식축구,4,미식축구를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy American football.
+108,해외출장,6,해외출장와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare business trips abroad with another hobby you enjoy. What are the key differences?
+109,수영,4,수영는 평소에 어떤 방식으로 즐기시나요?,When did you first start swimming and why?
+110,국내출장,5,국내출장를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in business trips in Korea changed over time?
+111,춤추기,4,춤추기를 하게 된 특별한 계기가 있었나요?,How often do you engage in dancing and where do you usually go?
+112,운동 수업 수강하기,4,운동 수업 수강하기를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start taking fitness classes and why?
+113,걷기,4,걷기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do walking alone or with others? Why?
+114,춤추기,5,춤추기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing dancing, and how did you overcome them?"
+115,차 드라이브 하기,6,차 드라이브 하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to driving.
+116,"하이킹, 트레킹",6,"하이킹, 트레킹와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.",How would you introduce hiking/trekking to someone from another country?
+117,체스 하기,5,체스 하기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,"What challenges have you faced while doing 체스 하기, and how did you overcome them?"
+118,배구,4,배구를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy volleyball.
+119,요리하기,4,요리하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do cooking alone or with others? Why?
+120,체스 하기,4,체스 하기는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in 체스 하기 and where do you usually go?
+121,TV시청 하기,6,TV시청 하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy watching TV anymore, what would you replace it with and why?"
+122,리얼리티 쇼 시청,4,리얼리티 쇼 시청를 하게 된 특별한 계기가 있었나요?,How often do you engage in watching reality shows and where do you usually go?
+123,여행 관련 잡지나 블로그 읽기,6,여행 관련 잡지나 블로그 읽기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy reading travel blogs or magazines anymore, what would you replace it with and why?"
+124,박물관 가기,6,박물관 가기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does visiting museums have in your country?
+125,애완동물 키우기,5,애완동물 키우기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in raising pets changed over time?
+126,리얼리티 쇼 시청,5,리얼리티 쇼 시청를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing watching reality shows, and how did you overcome them?"
+127,자원봉사,6,자원봉사와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce volunteering to someone from another country?
+128,탁구,6,탁구를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare table tennis with another hobby you enjoy. What are the key differences?
+129,골프,6,골프를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare golf with another hobby you enjoy. What are the key differences?
+130,집에서 보내는 휴가,6,집에서 보내는 휴가와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce staycations to someone from another country?
+131,여행 관련 잡지나 블로그 읽기,6,여행 관련 잡지나 블로그 읽기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy reading travel blogs or magazines anymore, what would you replace it with and why?"
+132,헬스,4,헬스를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start working out and why?
+133,콘서트 보기,6,콘서트 보기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy attending concerts anymore, what would you replace it with and why?"
+134,공연 보기,6,공연 보기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to watching performances.
+135,배구,4,배구를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about volleyball?
+136,당구 치기,5,당구 치기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing playing billiards, and how did you overcome them?"
+137,독서,6,독서를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare reading books with another hobby you enjoy. What are the key differences?
+138,글쓰기,4,글쓰기를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start writing and why?
+139,리얼리티 쇼 시청,4,리얼리티 쇼 시청를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy watching reality shows.
+140,요리 관련 프로그램 시청,4,요리 관련 프로그램 시청를 하게 된 특별한 계기가 있었나요?,When did you first start watching cooking shows and why?
+141,TV시청 하기,5,TV시청 하기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,Have you ever recommended watching TV to someone? What was their reaction?
+142,골프,4,골프를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start golf and why?
+143,미식축구,5,미식축구를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing American football regularly?
+144,낚시,6,"낚시를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy fishing anymore, what would you replace it with and why?"
+145,클럽/나이트클럽 가기,4,클럽/나이트클럽 가기를 하게 된 특별한 계기가 있었나요?,Do you prefer to do going to clubs or nightclubs alone or with others? Why?
+146,독서,5,독서를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended reading books to someone? What was their reaction?
+147,춤추기,5,춤추기를 꾸준히 하기 위해 어떤 노력을 하시나요?,Have you ever recommended dancing to someone? What was their reaction?
+148,미식축구,6,미식축구를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare American football with another hobby you enjoy. What are the key differences?
+149,그림 그리기,4,그림 그리기를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about drawing?
+150,자전거,6,자전거와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare biking with another hobby you enjoy. What are the key differences?
+151,주식 투자,5,주식 투자를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing stock investing, and how did you overcome them?"
+152,애완동물 키우기,5,애완동물 키우기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing raising pets regularly?
+153,해외출장,4,해외출장는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in business trips abroad and where do you usually go?
+154,음악 감상하기,4,음악 감상하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about listening to music?
+155,조깅,4,조깅를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about jogging?
+156,악기 연주하기,6,"악기 연주하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to playing musical instruments.
+157,리얼리티 쇼 시청,6,리얼리티 쇼 시청가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,What social or cultural significance does watching reality shows have in your country?
+158,야구/소프트볼,6,"야구/소프트볼를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce baseball/softball to someone from another country?
+159,박물관 가기,5,박물관 가기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing visiting museums, and how did you overcome them?"
+160,공연 보기,5,공연 보기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended watching performances to someone? What was their reaction?
+161,신문 읽기,6,신문 읽기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy reading newspapers anymore, what would you replace it with and why?"
+162,배드민턴,4,배드민턴를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start badminton and why?
+163,아이에게 책 읽어주기,5,아이에게 책 읽어주기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How do you balance your schedule to continue doing reading to children regularly?
+164,농구,4,농구는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in basketball and where do you usually go?
+165,스키/스노보드,6,"스키/스노보드를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Compare skiing/snowboarding with another hobby you enjoy. What are the key differences?
+166,박물관 가기,5,박물관 가기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does visiting museums have on your daily life or mood?
+167,SNS에 글 올리기,5,SNS에 글 올리기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing posting on social media regularly?
+168,아이스 스케이트,4,아이스 스케이트를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy ice skating.
+169,요리하기,6,요리하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does cooking have in your country?
+170,크로켓,4,크로켓를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start croquet and why?
+171,당구 치기,5,당구 치기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How do you balance your schedule to continue doing playing billiards regularly?
+172,농구,6,농구가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare basketball with another hobby you enjoy. What are the key differences?
+173,미식축구,4,미식축구를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in American football and where do you usually go?
+174,아이스 스케이트,4,아이스 스케이트를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about ice skating?
+175,배구,4,배구는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in volleyball and where do you usually go?
+176,차 드라이브 하기,6,차 드라이브 하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare driving with another hobby you enjoy. What are the key differences?
+177,시험 대비 과정 수강,5,시험 대비 과정 수강를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does taking test prep courses have on your daily life or mood?
+178,배구,5,배구를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing volleyball regularly?
+179,크로켓,4,크로켓를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy croquet.
+180,시험 대비 과정 수강,6,시험 대비 과정 수강를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare taking test prep courses with another hobby you enjoy. What are the key differences?
+181,탁구,6,탁구와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce table tennis to someone from another country?
+182,쇼핑하기,6,쇼핑하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to shopping.
+183,공연 보기,4,공연 보기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,How often do you engage in watching performances and where do you usually go?
+184,야구/소프트볼,4,야구/소프트볼는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in baseball/softball and where do you usually go?
+185,수영,6,수영를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare swimming with another hobby you enjoy. What are the key differences?
+186,시험 대비 과정 수강,5,시험 대비 과정 수강를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in taking test prep courses changed over time?
+187,시험 대비 과정 수강,5,시험 대비 과정 수강를 꾸준히 하기 위해 어떤 노력을 하시나요?,Have you ever recommended taking test prep courses to someone? What was their reaction?
+188,스키/스노보드,6,스키/스노보드와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce skiing/snowboarding to someone from another country?
+189,술집/바에 가기,5,술집/바에 가기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in going to pubs or bars changed over time?
+190,테니스,6,테니스와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare tennis with another hobby you enjoy. What are the key differences?
+191,주거 개선,6,주거 개선를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to improving living space.
+192,운동 수업 수강하기,4,운동 수업 수강하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start taking fitness classes and why?
+193,공원 가기,6,공원 가기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does going to parks have in your country?
+194,시험 대비 과정 수강,4,시험 대비 과정 수강를 하게 된 특별한 계기가 있었나요?,When did you first start taking test prep courses and why?
+195,스키/스노보드,5,스키/스노보드를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does skiing/snowboarding have on your daily life or mood?
+196,골프,6,골프를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,How would you introduce golf to someone from another country?
+197,요가,4,요가는 평소에 어떤 방식으로 즐기시나요?,What do you enjoy the most about yoga?
+198,시험 대비 과정 수강,4,시험 대비 과정 수강를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy taking test prep courses.
+199,자원봉사,4,자원봉사를 하게 된 특별한 계기가 있었나요?,How often do you engage in volunteering and where do you usually go?
+200,농구,4,농구를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy basketball.
+201,테니스,5,테니스와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How do you balance your schedule to continue doing tennis regularly?
+202,리얼리티 쇼 시청,5,리얼리티 쇼 시청를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does watching reality shows have on your daily life or mood?
+203,해외출장,5,해외출장와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,What impact does business trips abroad have on your daily life or mood?
+204,글쓰기,6,"글쓰기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Compare writing with another hobby you enjoy. What are the key differences?
+205,집에서 보내는 휴가,5,집에서 보내는 휴가와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How do you balance your schedule to continue doing staycations regularly?
+206,게임하기,4,게임하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about 게임하기?
+207,미식축구,5,미식축구와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How do you balance your schedule to continue doing American football regularly?
+208,아이스 스케이트,5,아이스 스케이트와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in ice skating changed over time?
+209,배드민턴,4,배드민턴를 하게 된 특별한 계기가 있었나요?,How often do you engage in badminton and where do you usually go?
+210,배구,6,배구가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy volleyball anymore, what would you replace it with and why?"
+211,음악 감상하기,5,음악 감상하기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,What impact does listening to music have on your daily life or mood?
+212,쇼핑하기,6,쇼핑하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce shopping to someone from another country?
+213,국내출장,6,국내출장와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare business trips in Korea with another hobby you enjoy. What are the key differences?
+214,수영,4,수영를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start swimming and why?
+215,게임하기,4,게임하기는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in 게임하기 and where do you usually go?
+216,탁구,5,탁구와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How do you balance your schedule to continue doing table tennis regularly?
+217,하키,5,하키와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,"What challenges have you faced while doing 하키, and how did you overcome them?"
+218,리얼리티 쇼 시청,4,리얼리티 쇼 시청를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy watching reality shows.
+219,탁구,4,탁구를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start table tennis and why?
+220,악기 연주하기,4,악기 연주하기를 하게 된 특별한 계기가 있었나요?,When did you first start playing musical instruments and why?
+221,헬스,4,헬스를 즐기기에 가장 좋은 장소는 어디인가요?,How often do you engage in working out and where do you usually go?
+222,국내 여행,6,국내 여행와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to domestic travel.
+223,술집/바에 가기,6,술집/바에 가기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,How would you introduce going to pubs or bars to someone from another country?
+224,영화 보기,6,"영화 보기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce watching movies to someone from another country?
+225,주거 개선,6,주거 개선를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,"If you couldn’t enjoy improving living space anymore, what would you replace it with and why?"
+226,캠핑 하기,6,캠핑 하기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to camping.
+227,미식축구,4,미식축구를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do American football alone or with others? Why?
+228,카페/커피전문점 가기,5,카페/커피전문점 가기를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing visiting cafes, and how did you overcome them?"
+229,카페/커피전문점 가기,6,"카페/커피전문점 가기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to visiting cafes.
+230,카페/커피전문점 가기,5,카페/커피전문점 가기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in visiting cafes changed over time?
+231,콘서트 보기,4,콘서트 보기를 즐기기에 가장 좋은 장소는 어디인가요?,Do you prefer to do attending concerts alone or with others? Why?
+232,태권도,5,태권도를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing 태권도 regularly?
+233,음악 감상하기,6,"음악 감상하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does listening to music have in your country?
+234,춤추기,5,춤추기를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing dancing, and how did you overcome them?"
+235,공연 보기,5,공연 보기를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing watching performances, and how did you overcome them?"
+236,배드민턴,4,배드민턴를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about badminton?
+237,하키,6,하키를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to 하키.
+238,카페/커피전문점 가기,4,카페/커피전문점 가기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start visiting cafes and why?
+239,영화 보기,4,영화 보기는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in watching movies and where do you usually go?
+240,공원 가기,5,공원 가기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in going to parks changed over time?
+241,걷기,5,걷기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does walking have on your daily life or mood?
+242,쇼핑하기,4,쇼핑하기를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about shopping?
+243,야구/소프트볼,5,야구/소프트볼를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing baseball/softball regularly?
+244,조깅,5,조깅를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing jogging, and how did you overcome them?"
+245,요가,4,요가를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start yoga and why?
+246,걷기,4,걷기는 평소에 어떤 방식으로 즐기시나요?,When did you first start walking and why?
+247,주거 개선,4,주거 개선를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy improving living space.
+248,국내출장,5,국내출장와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in business trips in Korea changed over time?
+249,리얼리티 쇼 시청,4,리얼리티 쇼 시청는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in watching reality shows and where do you usually go?
+250,배드민턴,6,배드민턴와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy badminton anymore, what would you replace it with and why?"
+251,스키/스노보드,4,스키/스노보드를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about skiing/snowboarding?
+252,음악 감상하기,4,음악 감상하기를 즐기기에 가장 좋은 장소는 어디인가요?,Do you prefer to do listening to music alone or with others? Why?
+253,골프,4,골프는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in golf and where do you usually go?
+254,농구,6,농구를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,What social or cultural significance does basketball have in your country?
+255,미식축구,5,미식축구를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing American football, and how did you overcome them?"
+256,차 드라이브 하기,4,차 드라이브 하기를 하게 된 특별한 계기가 있었나요?,How often do you engage in driving and where do you usually go?
+257,자원봉사,4,자원봉사를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about volunteering?
+258,아이스 스케이트,4,아이스 스케이트를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in ice skating and where do you usually go?
+259,글쓰기,4,글쓰기를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about writing?
+260,"하이킹, 트레킹",5,"하이킹, 트레킹를 할 때 가장 성취감을 느끼는 순간은 언제인가요?","What challenges have you faced while doing hiking/trekking, and how did you overcome them?"
+261,요리 관련 프로그램 시청,6,요리 관련 프로그램 시청를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does watching cooking shows have in your country?
+262,클럽/나이트클럽 가기,6,"클럽/나이트클럽 가기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy going to clubs or nightclubs anymore, what would you replace it with and why?"
+263,SNS에 글 올리기,4,SNS에 글 올리기를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about posting on social media?
+264,요리하기,5,요리하기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended cooking to someone? What was their reaction?
+265,국내출장,4,국내출장를 하게 된 특별한 계기가 있었나요?,When did you first start business trips in Korea and why?
+266,친구들과 문자 대화,6,친구들과 문자 대화가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare texting with friends with another hobby you enjoy. What are the key differences?
+267,아이에게 책 읽어주기,4,아이에게 책 읽어주기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start reading to children and why?
+268,테니스,4,테니스를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about tennis?
+269,클럽/나이트클럽 가기,4,클럽/나이트클럽 가기를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start going to clubs or nightclubs and why?
+270,주식 투자,6,주식 투자를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare stock investing with another hobby you enjoy. What are the key differences?
+271,여행 관련 잡지나 블로그 읽기,4,여행 관련 잡지나 블로그 읽기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do reading travel blogs or magazines alone or with others? Why?
+272,배드민턴,5,배드민턴를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended badminton to someone? What was their reaction?
+273,헬스,5,헬스를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in working out changed over time?
+274,요리 관련 프로그램 시청,4,요리 관련 프로그램 시청는 평소에 어떤 방식으로 즐기시나요?,When did you first start watching cooking shows and why?
+275,독서,4,독서를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start reading books and why?
+276,그림 그리기,4,그림 그리기를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy drawing.
+277,주식 투자,4,주식 투자를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about stock investing?
+278,국내 여행,6,국내 여행를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does domestic travel have in your country?
+279,"하이킹, 트레킹",4,"하이킹, 트레킹는 평소에 어떤 방식으로 즐기시나요?",Describe a typical time when you enjoy hiking/trekking.
+280,음악 감상하기,5,음악 감상하기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing listening to music, and how did you overcome them?"
+281,친구들과 문자 대화,6,친구들과 문자 대화가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,How would you introduce texting with friends to someone from another country?
+282,주거 개선,4,주거 개선를 하게 된 특별한 계기가 있었나요?,Do you prefer to do improving living space alone or with others? Why?
+283,테니스,5,테니스를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does tennis have on your daily life or mood?
+284,체스 하기,5,체스 하기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing 체스 하기, and how did you overcome them?"
+285,축구,4,축구를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,How often do you engage in soccer and where do you usually go?
+286,주식 투자,5,주식 투자와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,Have you ever recommended stock investing to someone? What was their reaction?
+287,축구,5,축구를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How has your interest in soccer changed over time?
+288,당구 치기,5,당구 치기를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does playing billiards have on your daily life or mood?
+289,콘서트 보기,6,콘서트 보기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy attending concerts anymore, what would you replace it with and why?"
+290,배드민턴,5,배드민턴를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does badminton have on your daily life or mood?
+291,콘서트 보기,6,콘서트 보기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare attending concerts with another hobby you enjoy. What are the key differences?
+292,뉴스를 보거나 듣기,6,뉴스를 보거나 듣기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare watching or listening to news with another hobby you enjoy. What are the key differences?
+293,태권도,4,태권도를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about 태권도?
+294,TV시청 하기,4,TV시청 하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy watching TV.
+295,신문 읽기,5,신문 읽기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in reading newspapers changed over time?
+296,탁구,6,탁구를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy table tennis anymore, what would you replace it with and why?"
+297,탁구,5,탁구를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in table tennis changed over time?
+298,골프,5,골프를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does golf have on your daily life or mood?
+299,친구들과 문자 대화,4,친구들과 문자 대화를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about texting with friends?
+300,당구 치기,6,"당구 치기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does playing billiards have in your country?
+301,콘서트 보기,6,콘서트 보기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,How would you introduce attending concerts to someone from another country?
+302,해외출장,5,해외출장를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing business trips abroad, and how did you overcome them?"
+303,주식 투자,4,주식 투자를 하게 된 특별한 계기가 있었나요?,How often do you engage in stock investing and where do you usually go?
+304,시험 대비 과정 수강,6,시험 대비 과정 수강를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to taking test prep courses.
+305,사진 촬영하기,5,사진 촬영하기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,"What challenges have you faced while doing taking photos, and how did you overcome them?"
+306,여행 관련 잡지나 블로그 읽기,6,여행 관련 잡지나 블로그 읽기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does reading travel blogs or magazines have in your country?
+307,해외출장,4,해외출장를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start business trips abroad and why?
+308,콘서트 보기,5,콘서트 보기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does attending concerts have on your daily life or mood?
+309,차 드라이브 하기,6,차 드라이브 하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does driving have in your country?
+310,걷기,5,걷기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in walking changed over time?
+311,TV시청 하기,6,TV시청 하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy watching TV anymore, what would you replace it with and why?"
+312,하키,6,"하키를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce 하키 to someone from another country?
+313,자전거,5,자전거를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does biking have on your daily life or mood?
+314,태권도,5,태권도를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended 태권도 to someone? What was their reaction?
+315,혼자 노래 부르거나 합창,4,혼자 노래 부르거나 합창를 하게 된 특별한 계기가 있었나요?,How often do you engage in singing alone or in choir and where do you usually go?
+316,미식축구,4,미식축구를 하게 된 특별한 계기가 있었나요?,When did you first start American football and why?
+317,음악 감상하기,4,음악 감상하기를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start listening to music and why?
+318,뉴스를 보거나 듣기,6,뉴스를 보거나 듣기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce watching or listening to news to someone from another country?
+319,요가,6,요가와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does yoga have in your country?
+320,뉴스를 보거나 듣기,5,뉴스를 보거나 듣기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does watching or listening to news have on your daily life or mood?
+321,운동 수업 수강하기,4,운동 수업 수강하기를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy taking fitness classes.
+322,미식축구,6,"미식축구를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce American football to someone from another country?
+323,춤추기,4,춤추기를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy dancing.
+324,SNS에 글 올리기,4,SNS에 글 올리기를 하게 된 특별한 계기가 있었나요?,Do you prefer to do posting on social media alone or with others? Why?
+325,공연 보기,6,공연 보기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare watching performances with another hobby you enjoy. What are the key differences?
+326,글쓰기,6,글쓰기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,What social or cultural significance does writing have in your country?
+327,악기 연주하기,6,악기 연주하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare playing musical instruments with another hobby you enjoy. What are the key differences?
+328,하키,6,하키를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,What social or cultural significance does 하키 have in your country?
+329,술집/바에 가기,5,술집/바에 가기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended going to pubs or bars to someone? What was their reaction?
+330,술집/바에 가기,4,술집/바에 가기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do going to pubs or bars alone or with others? Why?
+331,차 드라이브 하기,4,차 드라이브 하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy driving.
+332,수영,6,수영와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to swimming.
+333,"하이킹, 트레킹",6,"하이킹, 트레킹를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce hiking/trekking to someone from another country?
+334,테니스,4,테니스를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy tennis.
+335,배구,6,배구와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does volleyball have in your country?
+336,SNS에 글 올리기,6,SNS에 글 올리기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy posting on social media anymore, what would you replace it with and why?"
+337,글쓰기,4,글쓰기를 하게 된 특별한 계기가 있었나요?,Do you prefer to do writing alone or with others? Why?
+338,자원봉사,6,"자원봉사를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to volunteering.
+339,자전거,4,자전거를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about biking?
+340,애완동물 키우기,4,애완동물 키우기를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy raising pets.
+341,클럽/나이트클럽 가기,5,클럽/나이트클럽 가기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How has your interest in going to clubs or nightclubs changed over time?
+342,헬스,5,헬스를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended working out to someone? What was their reaction?
+343,태권도,6,태권도를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce 태권도 to someone from another country?
+344,국내 여행,6,국내 여행를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce domestic travel to someone from another country?
+345,당구 치기,4,당구 치기는 평소에 어떤 방식으로 즐기시나요?,Do you prefer to do playing billiards alone or with others? Why?
+346,술집/바에 가기,4,술집/바에 가기를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about going to pubs or bars?
+347,구직활동하기,4,구직활동하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy job hunting.
+348,야구/소프트볼,5,야구/소프트볼를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How has your interest in baseball/softball changed over time?
+349,시험 대비 과정 수강,6,시험 대비 과정 수강가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,How would you introduce taking test prep courses to someone from another country?
+350,여행 관련 잡지나 블로그 읽기,6,"여행 관련 잡지나 블로그 읽기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Compare reading travel blogs or magazines with another hobby you enjoy. What are the key differences?
+351,해외출장,4,해외출장를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do business trips abroad alone or with others? Why?
+352,공원 가기,4,공원 가기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy going to parks.
+353,축구,6,축구를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare soccer with another hobby you enjoy. What are the key differences?
+354,"하이킹, 트레킹",4,"하이킹, 트레킹는 평소에 어떤 방식으로 즐기시나요?",When did you first start hiking/trekking and why?
+355,자원봉사,4,자원봉사를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do volunteering alone or with others? Why?
+356,그림 그리기,6,그림 그리기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to drawing.
+357,해외출장,4,해외출장를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy business trips abroad.
+358,주식 투자,5,주식 투자를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does stock investing have on your daily life or mood?
+359,아이에게 책 읽어주기,4,아이에게 책 읽어주기를 하게 된 특별한 계기가 있었나요?,How often do you engage in reading to children and where do you usually go?
+360,축구,5,축구와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How do you balance your schedule to continue doing soccer regularly?
+361,해외출장,6,해외출장가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,What social or cultural significance does business trips abroad have in your country?
+362,사진 촬영하기,4,사진 촬영하기를 즐기기에 가장 좋은 장소는 어디인가요?,Do you prefer to do taking photos alone or with others? Why?
+363,조깅,6,조깅를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,What social or cultural significance does jogging have in your country?
+364,해외 여행,4,해외 여행를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about international travel?
+365,태권도,5,태권도와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in 태권도 changed over time?
+366,국내 여행,6,국내 여행를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy domestic travel anymore, what would you replace it with and why?"
+367,술집/바에 가기,5,술집/바에 가기를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing going to pubs or bars, and how did you overcome them?"
+368,캠핑 하기,6,캠핑 하기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,How would you introduce camping to someone from another country?
+369,캠핑 하기,4,캠핑 하기는 평소에 어떤 방식으로 즐기시나요?,Do you prefer to do camping alone or with others? Why?
+370,악기 연주하기,5,악기 연주하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing playing musical instruments, and how did you overcome them?"
+371,혼자 노래 부르거나 합창,5,혼자 노래 부르거나 합창를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does singing alone or in choir have on your daily life or mood?
+372,"하이킹, 트레킹",5,"하이킹, 트레킹를 할 때 가장 성취감을 느끼는 순간은 언제인가요?",Have you ever recommended hiking/trekking to someone? What was their reaction?
+373,헬스,6,헬스가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,How would you introduce working out to someone from another country?
+374,카페/커피전문점 가기,6,카페/커피전문점 가기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare visiting cafes with another hobby you enjoy. What are the key differences?
+375,게임하기,4,게임하기는 평소에 어떤 방식으로 즐기시나요?,Do you prefer to do 게임하기 alone or with others? Why?
+376,골프,5,골프를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing golf regularly?
+377,스키/스노보드,6,스키/스노보드를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Describe a memorable or unusual experience related to skiing/snowboarding.
+378,구직활동하기,4,구직활동하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start job hunting and why?
+379,축구,6,축구와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does soccer have in your country?
+380,야구/소프트볼,5,야구/소프트볼를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does baseball/softball have on your daily life or mood?
+381,차 드라이브 하기,5,차 드라이브 하기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,What impact does driving have on your daily life or mood?
+382,혼자 노래 부르거나 합창,5,혼자 노래 부르거나 합창를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended singing alone or in choir to someone? What was their reaction?
+383,사진 촬영하기,6,사진 촬영하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce taking photos to someone from another country?
+384,헬스,5,헬스와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,What impact does working out have on your daily life or mood?
+385,요가,5,요가를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing yoga, and how did you overcome them?"
+386,테니스,4,테니스를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,How often do you engage in tennis and where do you usually go?
+387,체스 하기,4,체스 하기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy 체스 하기.
+388,차 드라이브 하기,4,차 드라이브 하기를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start driving and why?
+389,그림 그리기,5,그림 그리기를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing drawing, and how did you overcome them?"
+390,캠핑 하기,5,캠핑 하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing camping, and how did you overcome them?"
+391,춤추기,6,"춤추기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does dancing have in your country?
+392,춤추기,6,춤추기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare dancing with another hobby you enjoy. What are the key differences?
+393,구직활동하기,6,"구직활동하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy job hunting anymore, what would you replace it with and why?"
+394,애완동물 키우기,4,애완동물 키우기를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about raising pets?
+395,배구,4,배구를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start volleyball and why?
+396,헬스,5,헬스를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing working out regularly?
+397,TV시청 하기,4,TV시청 하기를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start watching TV and why?
+398,게임하기,6,게임하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,How would you introduce 게임하기 to someone from another country?
+399,조깅,5,조깅를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in jogging changed over time?
+400,수영,4,수영를 하게 된 특별한 계기가 있었나요?,How often do you engage in swimming and where do you usually go?
+401,요리하기,4,요리하기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy cooking.
+402,"하이킹, 트레킹",6,"하이킹, 트레킹와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.",Compare hiking/trekking with another hobby you enjoy. What are the key differences?
+403,독서,4,독서를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do reading books alone or with others? Why?
+404,술집/바에 가기,6,술집/바에 가기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare going to pubs or bars with another hobby you enjoy. What are the key differences?
+405,하키,5,하키를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in 하키 changed over time?
+406,걷기,6,걷기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does walking have in your country?
+407,클럽/나이트클럽 가기,6,클럽/나이트클럽 가기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Describe a memorable or unusual experience related to going to clubs or nightclubs.
+408,요가,6,요가가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to yoga.
+409,리얼리티 쇼 시청,4,리얼리티 쇼 시청를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about watching reality shows?
+410,탁구,6,탁구를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare table tennis with another hobby you enjoy. What are the key differences?
+411,걷기,5,걷기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing walking regularly?
+412,농구,4,농구를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start basketball and why?
+413,클럽/나이트클럽 가기,4,클럽/나이트클럽 가기는 평소에 어떤 방식으로 즐기시나요?,What do you enjoy the most about going to clubs or nightclubs?
+414,친구들과 문자 대화,5,친구들과 문자 대화를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How has your interest in texting with friends changed over time?
+415,자전거,5,자전거를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing biking, and how did you overcome them?"
+416,크로켓,4,크로켓를 하게 된 특별한 계기가 있었나요?,Do you prefer to do croquet alone or with others? Why?
+417,공연 보기,6,공연 보기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does watching performances have in your country?
+418,뉴스를 보거나 듣기,4,뉴스를 보거나 듣기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start watching or listening to news and why?
+419,TV시청 하기,6,TV시청 하기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare watching TV with another hobby you enjoy. What are the key differences?
+420,낚시,4,낚시를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about fishing?
+421,운동 수업 수강하기,6,운동 수업 수강하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce taking fitness classes to someone from another country?
+422,그림 그리기,5,그림 그리기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,What impact does drawing have on your daily life or mood?
+423,클럽/나이트클럽 가기,6,클럽/나이트클럽 가기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare going to clubs or nightclubs with another hobby you enjoy. What are the key differences?
+424,여행 관련 잡지나 블로그 읽기,6,여행 관련 잡지나 블로그 읽기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to reading travel blogs or magazines.
+425,요리 관련 프로그램 시청,5,요리 관련 프로그램 시청를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing watching cooking shows regularly?
+426,뉴스를 보거나 듣기,4,뉴스를 보거나 듣기는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in watching or listening to news and where do you usually go?
+427,낚시,6,낚시가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare fishing with another hobby you enjoy. What are the key differences?
+428,요리하기,6,"요리하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce cooking to someone from another country?
+429,아이에게 책 읽어주기,5,아이에게 책 읽어주기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in reading to children changed over time?
+430,골프,5,골프를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing golf, and how did you overcome them?"
+431,게임하기,5,게임하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does 게임하기 have on your daily life or mood?
+432,여행 관련 잡지나 블로그 읽기,6,여행 관련 잡지나 블로그 읽기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy reading travel blogs or magazines anymore, what would you replace it with and why?"
+433,요리 관련 프로그램 시청,4,요리 관련 프로그램 시청를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about watching cooking shows?
+434,운동 수업 수강하기,5,운동 수업 수강하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing taking fitness classes regularly?
+435,춤추기,4,춤추기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about dancing?
+436,주식 투자,4,주식 투자를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy stock investing.
+437,헬스,4,헬스를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy working out.
+438,사진 촬영하기,4,사진 촬영하기를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about taking photos?
+439,친구들과 문자 대화,5,친구들과 문자 대화를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing texting with friends regularly?
+440,술집/바에 가기,4,술집/바에 가기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start going to pubs or bars and why?
+441,"하이킹, 트레킹",4,"하이킹, 트레킹를 하면서 느끼는 감정을 구체적으로 설명해 주세요.",Do you prefer to do hiking/trekking alone or with others? Why?
+442,혼자 노래 부르거나 합창,4,혼자 노래 부르거나 합창를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about singing alone or in choir?
+443,수영,5,수영를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does swimming have on your daily life or mood?
+444,시험 대비 과정 수강,4,시험 대비 과정 수강를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about taking test prep courses?
+445,체스 하기,4,체스 하기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start 체스 하기 and why?
+446,골프,4,골프를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy golf.
+447,해외출장,5,해외출장를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended business trips abroad to someone? What was their reaction?
+448,낚시,4,낚시는 평소에 어떤 방식으로 즐기시나요?,Describe a typical time when you enjoy fishing.
+449,주거 개선,5,주거 개선를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended improving living space to someone? What was their reaction?
+450,국내출장,4,국내출장는 평소에 어떤 방식으로 즐기시나요?,Do you prefer to do business trips in Korea alone or with others? Why?
+451,크로켓,5,크로켓를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing croquet, and how did you overcome them?"
+452,아이스 스케이트,6,"아이스 스케이트를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Compare ice skating with another hobby you enjoy. What are the key differences?
+453,카페/커피전문점 가기,6,카페/커피전문점 가기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy visiting cafes anymore, what would you replace it with and why?"
+454,집에서 보내는 휴가,5,집에서 보내는 휴가를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in staycations changed over time?
+455,친구들과 문자 대화,4,친구들과 문자 대화를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start texting with friends and why?
+456,국내출장,6,국내출장가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy business trips in Korea anymore, what would you replace it with and why?"
+457,시험 대비 과정 수강,5,시험 대비 과정 수강를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing taking test prep courses regularly?
+458,해외출장,6,해외출장와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare business trips abroad with another hobby you enjoy. What are the key differences?
+459,헬스,5,헬스와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,"What challenges have you faced while doing working out, and how did you overcome them?"
+460,자원봉사,5,자원봉사를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,What impact does volunteering have on your daily life or mood?
+461,캠핑 하기,6,캠핑 하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy camping anymore, what would you replace it with and why?"
+462,요리 관련 프로그램 시청,5,요리 관련 프로그램 시청를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does watching cooking shows have on your daily life or mood?
+463,체스 하기,5,체스 하기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does 체스 하기 have on your daily life or mood?
+464,공원 가기,6,공원 가기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to going to parks.
+465,골프,6,골프를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy golf anymore, what would you replace it with and why?"
+466,운동 수업 수강하기,6,운동 수업 수강하기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy taking fitness classes anymore, what would you replace it with and why?"
+467,혼자 노래 부르거나 합창,5,혼자 노래 부르거나 합창를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing singing alone or in choir, and how did you overcome them?"
+468,주식 투자,4,주식 투자를 하게 된 특별한 계기가 있었나요?,Do you prefer to do stock investing alone or with others? Why?
+469,운동 수업 수강하기,6,"운동 수업 수강하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does taking fitness classes have in your country?
+470,해외출장,6,해외출장를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Describe a memorable or unusual experience related to business trips abroad.
+471,수영,5,수영를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing swimming regularly?
+472,낚시,4,낚시를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start fishing and why?
+473,자원봉사,5,자원봉사를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing volunteering regularly?
+474,콘서트 보기,4,콘서트 보기는 평소에 어떤 방식으로 즐기시나요?,When did you first start attending concerts and why?
+475,애완동물 키우기,4,애완동물 키우기를 즐기기에 가장 좋은 장소는 어디인가요?,How often do you engage in raising pets and where do you usually go?
+476,배드민턴,5,배드민턴를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing badminton, and how did you overcome them?"
+477,해외 여행,5,해외 여행와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in international travel changed over time?
+478,혼자 노래 부르거나 합창,6,혼자 노래 부르거나 합창를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,How would you introduce singing alone or in choir to someone from another country?
+479,박물관 가기,6,박물관 가기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does visiting museums have in your country?
+480,악기 연주하기,6,"악기 연주하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce playing musical instruments to someone from another country?
+481,자전거,5,자전거를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How has your interest in biking changed over time?
+482,악기 연주하기,5,악기 연주하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does playing musical instruments have on your daily life or mood?
+483,술집/바에 가기,4,술집/바에 가기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy going to pubs or bars.
+484,카페/커피전문점 가기,4,카페/커피전문점 가기를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about visiting cafes?
+485,요가,4,요가를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in yoga and where do you usually go?
+486,글쓰기,5,글쓰기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,Have you ever recommended writing to someone? What was their reaction?
+487,요리 관련 프로그램 시청,5,요리 관련 프로그램 시청를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in watching cooking shows changed over time?
+488,당구 치기,5,당구 치기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,"What challenges have you faced while doing playing billiards, and how did you overcome them?"
+489,탁구,6,"탁구를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does table tennis have in your country?
+490,해외출장,5,해외출장를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing business trips abroad regularly?
+491,구직활동하기,6,구직활동하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce job hunting to someone from another country?
+492,사진 촬영하기,4,사진 촬영하기는 평소에 어떤 방식으로 즐기시나요?,When did you first start taking photos and why?
+493,춤추기,5,춤추기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How has your interest in dancing changed over time?
+494,운동 수업 수강하기,5,운동 수업 수강하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended taking fitness classes to someone? What was their reaction?
+495,주거 개선,5,주거 개선를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does improving living space have on your daily life or mood?
+496,차 드라이브 하기,6,차 드라이브 하기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Describe a memorable or unusual experience related to driving.
+497,걷기,4,걷기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,How often do you engage in walking and where do you usually go?
+498,미식축구,5,미식축구를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in American football changed over time?
+499,주식 투자,6,주식 투자를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy stock investing anymore, what would you replace it with and why?"
+500,"하이킹, 트레킹",5,"하이킹, 트레킹를 할 때 가장 성취감을 느끼는 순간은 언제인가요?",How do you balance your schedule to continue doing hiking/trekking regularly?
+501,당구 치기,5,당구 치기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended playing billiards to someone? What was their reaction?
+502,국내출장,5,국내출장와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,Have you ever recommended business trips in Korea to someone? What was their reaction?
+503,수영,5,수영를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in swimming changed over time?
+504,아이에게 책 읽어주기,6,아이에게 책 읽어주기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,How would you introduce reading to children to someone from another country?
+505,음악 감상하기,5,음악 감상하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing listening to music regularly?
+506,음악 감상하기,6,음악 감상하기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare listening to music with another hobby you enjoy. What are the key differences?
+507,여행 관련 잡지나 블로그 읽기,6,여행 관련 잡지나 블로그 읽기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce reading travel blogs or magazines to someone from another country?
+508,쇼핑하기,4,쇼핑하기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy shopping.
+509,SNS에 글 올리기,4,SNS에 글 올리기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start posting on social media and why?
+510,축구,6,"축구를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce soccer to someone from another country?
+511,신문 읽기,5,신문 읽기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does reading newspapers have on your daily life or mood?
+512,술집/바에 가기,5,술집/바에 가기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing going to pubs or bars regularly?
+513,박물관 가기,6,박물관 가기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to visiting museums.
+514,걷기,6,걷기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce walking to someone from another country?
+515,음악 감상하기,6,음악 감상하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy listening to music anymore, what would you replace it with and why?"
+516,탁구,4,탁구를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do table tennis alone or with others? Why?
+517,아이에게 책 읽어주기,6,아이에게 책 읽어주기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,What social or cultural significance does reading to children have in your country?
+518,아이스 스케이트,6,아이스 스케이트를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does ice skating have in your country?
+519,공원 가기,6,공원 가기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare going to parks with another hobby you enjoy. What are the key differences?
+520,TV시청 하기,5,TV시청 하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing watching TV regularly?
+521,체스 하기,6,"체스 하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce 체스 하기 to someone from another country?
+522,캠핑 하기,4,캠핑 하기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,How often do you engage in camping and where do you usually go?
+523,탁구,5,탁구를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended table tennis to someone? What was their reaction?
+524,낚시,5,낚시를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in fishing changed over time?
+525,당구 치기,4,당구 치기는 평소에 어떤 방식으로 즐기시나요?,Describe a typical time when you enjoy playing billiards.
+526,주식 투자,4,주식 투자를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start stock investing and why?
+527,애완동물 키우기,4,애완동물 키우기를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start raising pets and why?
+528,국내출장,5,국내출장를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing business trips in Korea regularly?
+529,주거 개선,4,주거 개선를 하게 된 특별한 계기가 있었나요?,How often do you engage in improving living space and where do you usually go?
+530,아이스 스케이트,5,아이스 스케이트를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended ice skating to someone? What was their reaction?
+531,운동 수업 수강하기,4,운동 수업 수강하기는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in taking fitness classes and where do you usually go?
+532,독서,4,독서를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy reading books.
+533,춤추기,4,춤추기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in dancing and where do you usually go?
+534,공연 보기,5,공연 보기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing watching performances regularly?
+535,리얼리티 쇼 시청,4,리얼리티 쇼 시청를 즐기기에 가장 좋은 장소는 어디인가요?,Do you prefer to do watching reality shows alone or with others? Why?
+536,야구/소프트볼,4,야구/소프트볼를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about baseball/softball?
+537,해외 여행,5,해외 여행를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing international travel, and how did you overcome them?"
+538,클럽/나이트클럽 가기,5,클럽/나이트클럽 가기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does going to clubs or nightclubs have on your daily life or mood?
+539,콘서트 보기,6,"콘서트 보기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to attending concerts.
+540,혼자 노래 부르거나 합창,4,혼자 노래 부르거나 합창를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy singing alone or in choir.
+541,요리하기,6,요리하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to cooking.
+542,주거 개선,4,주거 개선를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about improving living space?
+543,주거 개선,6,주거 개선가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare improving living space with another hobby you enjoy. What are the key differences?
+544,그림 그리기,6,그림 그리기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare drawing with another hobby you enjoy. What are the key differences?
+545,콘서트 보기,5,콘서트 보기를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing attending concerts, and how did you overcome them?"
+546,요가,6,요가가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare yoga with another hobby you enjoy. What are the key differences?
+547,구직활동하기,4,구직활동하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about job hunting?
+548,"하이킹, 트레킹",6,"하이킹, 트레킹와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.",Describe a memorable or unusual experience related to hiking/trekking.
+549,집에서 보내는 휴가,6,집에서 보내는 휴가를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Describe a memorable or unusual experience related to staycations.
+550,SNS에 글 올리기,6,SNS에 글 올리기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare posting on social media with another hobby you enjoy. What are the key differences?
+551,요리 관련 프로그램 시청,6,요리 관련 프로그램 시청를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to watching cooking shows.
+552,체스 하기,4,체스 하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about 체스 하기?
+553,구직활동하기,6,구직활동하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to job hunting.
+554,집에서 보내는 휴가,5,집에서 보내는 휴가를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,"What challenges have you faced while doing staycations, and how did you overcome them?"
+555,테니스,6,테니스와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce tennis to someone from another country?
+556,자전거,4,자전거를 하게 된 특별한 계기가 있었나요?,When did you first start biking and why?
+557,구직활동하기,5,구직활동하기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How do you balance your schedule to continue doing job hunting regularly?
+558,영화 보기,4,영화 보기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about watching movies?
+559,야구/소프트볼,6,야구/소프트볼를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy baseball/softball anymore, what would you replace it with and why?"
+560,리얼리티 쇼 시청,4,리얼리티 쇼 시청는 평소에 어떤 방식으로 즐기시나요?,When did you first start watching reality shows and why?
+561,배구,6,배구를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Describe a memorable or unusual experience related to volleyball.
+562,게임하기,6,게임하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to 게임하기.
+563,박물관 가기,6,"박물관 가기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Compare visiting museums with another hobby you enjoy. What are the key differences?
+564,태권도,4,태권도를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy 태권도.
+565,하키,4,하키를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about 하키?
+566,TV시청 하기,5,TV시청 하기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,"What challenges have you faced while doing watching TV, and how did you overcome them?"
+567,크로켓,5,크로켓를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in croquet changed over time?
+568,박물관 가기,5,박물관 가기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing visiting museums regularly?
+569,체스 하기,5,체스 하기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in 체스 하기 changed over time?
+570,운동 수업 수강하기,5,운동 수업 수강하기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in taking fitness classes changed over time?
+571,"하이킹, 트레킹",6,"하이킹, 트레킹를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.","If you couldn’t enjoy hiking/trekking anymore, what would you replace it with and why?"
+572,크로켓,6,"크로켓를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy croquet anymore, what would you replace it with and why?"
+573,캠핑 하기,4,캠핑 하기를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy camping.
+574,해외 여행,5,해외 여행를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing international travel regularly?
+575,술집/바에 가기,5,술집/바에 가기를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does going to pubs or bars have on your daily life or mood?
+576,박물관 가기,6,박물관 가기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy visiting museums anymore, what would you replace it with and why?"
+577,콘서트 보기,4,콘서트 보기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about attending concerts?
+578,태권도,6,태권도를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare 태권도 with another hobby you enjoy. What are the key differences?
+579,클럽/나이트클럽 가기,5,클럽/나이트클럽 가기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,"What challenges have you faced while doing going to clubs or nightclubs, and how did you overcome them?"
+580,TV시청 하기,5,TV시청 하기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended watching TV to someone? What was their reaction?
+581,요리하기,4,요리하기는 평소에 어떤 방식으로 즐기시나요?,What do you enjoy the most about cooking?
+582,미식축구,5,미식축구를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does American football have on your daily life or mood?
+583,리얼리티 쇼 시청,5,리얼리티 쇼 시청를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in watching reality shows changed over time?
+584,농구,5,농구를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing basketball, and how did you overcome them?"
+585,국내출장,4,국내출장는 평소에 어떤 방식으로 즐기시나요?,Describe a typical time when you enjoy business trips in Korea.
+586,"하이킹, 트레킹",5,"하이킹, 트레킹를 할 때 가장 성취감을 느끼는 순간은 언제인가요?",What impact does hiking/trekking have on your daily life or mood?
+587,조깅,4,조깅를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start jogging and why?
+588,당구 치기,6,당구 치기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy playing billiards anymore, what would you replace it with and why?"
+589,해외 여행,6,해외 여행를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does international travel have in your country?
+590,게임하기,4,게임하기를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy 게임하기.
+591,자원봉사,6,자원봉사와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare volunteering with another hobby you enjoy. What are the key differences?
+592,국내출장,5,국내출장를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does business trips in Korea have on your daily life or mood?
+593,하키,4,하키를 하게 된 특별한 계기가 있었나요?,Do you prefer to do 하키 alone or with others? Why?
+594,술집/바에 가기,6,술집/바에 가기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does going to pubs or bars have in your country?
+595,국내출장,4,국내출장를 하게 된 특별한 계기가 있었나요?,How often do you engage in business trips in Korea and where do you usually go?
+596,쇼핑하기,5,쇼핑하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended shopping to someone? What was their reaction?
+597,신문 읽기,6,신문 읽기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare reading newspapers with another hobby you enjoy. What are the key differences?
+598,SNS에 글 올리기,5,SNS에 글 올리기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,"What challenges have you faced while doing posting on social media, and how did you overcome them?"
+599,태권도,6,태권도가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,What social or cultural significance does 태권도 have in your country?
+600,당구 치기,6,"당구 치기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce playing billiards to someone from another country?
+601,집에서 보내는 휴가,4,집에서 보내는 휴가를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start staycations and why?
+602,수영,4,수영를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy swimming.
+603,배구,4,배구를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do volleyball alone or with others? Why?
+604,독서,5,독서를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does reading books have on your daily life or mood?
+605,캠핑 하기,5,캠핑 하기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended camping to someone? What was their reaction?
+606,당구 치기,4,당구 치기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in playing billiards and where do you usually go?
+607,국내 여행,5,국내 여행를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing domestic travel regularly?
+608,조깅,6,조깅를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare jogging with another hobby you enjoy. What are the key differences?
+609,배드민턴,5,배드민턴를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing badminton regularly?
+610,독서,6,독서가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to reading books.
+611,태권도,4,태권도를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do 태권도 alone or with others? Why?
+612,혼자 노래 부르거나 합창,4,혼자 노래 부르거나 합창를 하게 된 특별한 계기가 있었나요?,Do you prefer to do singing alone or in choir alone or with others? Why?
+613,음악 감상하기,6,음악 감상하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to listening to music.
+614,골프,6,"골프를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does golf have in your country?
+615,혼자 노래 부르거나 합창,6,혼자 노래 부르거나 합창를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare singing alone or in choir with another hobby you enjoy. What are the key differences?
+616,신문 읽기,5,신문 읽기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing reading newspapers regularly?
+617,골프,4,골프를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about golf?
+618,크로켓,4,크로켓를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about croquet?
+619,악기 연주하기,5,악기 연주하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,Have you ever recommended playing musical instruments to someone? What was their reaction?
+620,혼자 노래 부르거나 합창,6,혼자 노래 부르거나 합창가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to singing alone or in choir.
+621,그림 그리기,4,그림 그리기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in drawing and where do you usually go?
+622,낚시,5,낚시를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does fishing have on your daily life or mood?
+623,혼자 노래 부르거나 합창,5,혼자 노래 부르거나 합창를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing singing alone or in choir regularly?
+624,배구,4,배구를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy volleyball.
+625,국내출장,4,국내출장를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about business trips in Korea?
+626,춤추기,5,춤추기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,What impact does dancing have on your daily life or mood?
+627,카페/커피전문점 가기,4,카페/커피전문점 가기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do visiting cafes alone or with others? Why?
+628,조깅,4,조깅를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy jogging.
+629,리얼리티 쇼 시청,5,리얼리티 쇼 시청와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,"What challenges have you faced while doing watching reality shows, and how did you overcome them?"
+630,자원봉사,6,자원봉사를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy volunteering anymore, what would you replace it with and why?"
+631,신문 읽기,4,신문 읽기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy reading newspapers.
+632,쇼핑하기,5,쇼핑하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in shopping changed over time?
+633,리얼리티 쇼 시청,6,리얼리티 쇼 시청와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to watching reality shows.
+634,영화 보기,5,영화 보기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How do you balance your schedule to continue doing watching movies regularly?
+635,여행 관련 잡지나 블로그 읽기,5,여행 관련 잡지나 블로그 읽기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended reading travel blogs or magazines to someone? What was their reaction?
+636,신문 읽기,4,신문 읽기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in reading newspapers and where do you usually go?
+637,요리 관련 프로그램 시청,5,요리 관련 프로그램 시청를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended watching cooking shows to someone? What was their reaction?
+638,SNS에 글 올리기,4,SNS에 글 올리기는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in posting on social media and where do you usually go?
+639,걷기,4,걷기를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy walking.
+640,요리하기,4,요리하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do cooking alone or with others? Why?
+641,캠핑 하기,4,캠핑 하기를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about camping?
+642,SNS에 글 올리기,6,"SNS에 글 올리기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to posting on social media.
+643,애완동물 키우기,5,애완동물 키우기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,What impact does raising pets have on your daily life or mood?
+644,박물관 가기,4,박물관 가기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy visiting museums.
+645,공원 가기,5,공원 가기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,"What challenges have you faced while doing going to parks, and how did you overcome them?"
+646,자원봉사,6,자원봉사가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,How would you introduce volunteering to someone from another country?
+647,야구/소프트볼,5,야구/소프트볼를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended baseball/softball to someone? What was their reaction?
+648,국내출장,6,국내출장를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce business trips in Korea to someone from another country?
+649,영화 보기,6,영화 보기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare watching movies with another hobby you enjoy. What are the key differences?
+650,테니스,6,테니스가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to tennis.
+651,스키/스노보드,6,"스키/스노보드를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy skiing/snowboarding anymore, what would you replace it with and why?"
+652,공원 가기,4,공원 가기를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about going to parks?
+653,차 드라이브 하기,4,차 드라이브 하기를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about driving?
+654,해외출장,5,해외출장를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in business trips abroad changed over time?
+655,글쓰기,6,글쓰기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy writing anymore, what would you replace it with and why?"
+656,독서,6,독서를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce reading books to someone from another country?
+657,배구,6,"배구를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce volleyball to someone from another country?
+658,체스 하기,5,체스 하기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing 체스 하기 regularly?
+659,여행 관련 잡지나 블로그 읽기,5,여행 관련 잡지나 블로그 읽기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing reading travel blogs or magazines regularly?
+660,해외 여행,5,해외 여행를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does international travel have on your daily life or mood?
+661,시험 대비 과정 수강,4,시험 대비 과정 수강를 하게 된 특별한 계기가 있었나요?,How often do you engage in taking test prep courses and where do you usually go?
+662,조깅,4,조깅는 평소에 어떤 방식으로 즐기시나요?,Do you prefer to do jogging alone or with others? Why?
+663,체스 하기,6,"체스 하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to 체스 하기.
+664,운동 수업 수강하기,5,운동 수업 수강하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing taking fitness classes, and how did you overcome them?"
+665,사진 촬영하기,5,사진 촬영하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in taking photos changed over time?
+666,축구,6,축구가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy soccer anymore, what would you replace it with and why?"
+667,국내 여행,4,국내 여행를 하게 된 특별한 계기가 있었나요?,When did you first start domestic travel and why?
+668,신문 읽기,4,신문 읽기를 하게 된 특별한 계기가 있었나요?,When did you first start reading newspapers and why?
+669,요리 관련 프로그램 시청,6,요리 관련 프로그램 시청와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare watching cooking shows with another hobby you enjoy. What are the key differences?
+670,독서,4,독서를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about reading books?
+671,신문 읽기,6,신문 읽기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does reading newspapers have in your country?
+672,여행 관련 잡지나 블로그 읽기,5,여행 관련 잡지나 블로그 읽기를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does reading travel blogs or magazines have on your daily life or mood?
+673,야구/소프트볼,4,야구/소프트볼를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy baseball/softball.
+674,영화 보기,6,"영화 보기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does watching movies have in your country?
+675,크로켓,6,"크로켓를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to croquet.
+676,아이에게 책 읽어주기,6,아이에게 책 읽어주기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy reading to children anymore, what would you replace it with and why?"
+677,조깅,5,조깅를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended jogging to someone? What was their reaction?
+678,축구,5,축구를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended soccer to someone? What was their reaction?
+679,축구,4,축구를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start soccer and why?
+680,탁구,5,탁구를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing table tennis, and how did you overcome them?"
+681,춤추기,6,춤추기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy dancing anymore, what would you replace it with and why?"
+682,자전거,6,"자전거를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy biking anymore, what would you replace it with and why?"
+683,애완동물 키우기,6,애완동물 키우기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare raising pets with another hobby you enjoy. What are the key differences?
+684,영화 보기,4,영화 보기를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy watching movies.
+685,배구,6,배구를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare volleyball with another hobby you enjoy. What are the key differences?
+686,스키/스노보드,4,스키/스노보드를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy skiing/snowboarding.
+687,운동 수업 수강하기,4,운동 수업 수강하기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about taking fitness classes?
+688,요가,6,요가를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,"If you couldn’t enjoy yoga anymore, what would you replace it with and why?"
+689,아이에게 책 읽어주기,5,아이에게 책 읽어주기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,"What challenges have you faced while doing reading to children, and how did you overcome them?"
+690,체스 하기,6,체스 하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,What social or cultural significance does 체스 하기 have in your country?
+691,쇼핑하기,5,쇼핑하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing shopping, and how did you overcome them?"
+692,요리하기,5,요리하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does cooking have on your daily life or mood?
+693,아이스 스케이트,5,아이스 스케이트를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing ice skating regularly?
+694,음악 감상하기,4,음악 감상하기를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy listening to music.
+695,콘서트 보기,5,콘서트 보기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing attending concerts regularly?
+696,여행 관련 잡지나 블로그 읽기,4,여행 관련 잡지나 블로그 읽기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start reading travel blogs or magazines and why?
+697,여행 관련 잡지나 블로그 읽기,4,여행 관련 잡지나 블로그 읽기를 하게 된 특별한 계기가 있었나요?,How often do you engage in reading travel blogs or magazines and where do you usually go?
+698,해외 여행,4,해외 여행를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy international travel.
+699,쇼핑하기,4,쇼핑하기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,How often do you engage in shopping and where do you usually go?
+700,하키,6,하키를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare 하키 with another hobby you enjoy. What are the key differences?
+701,쇼핑하기,6,쇼핑하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare shopping with another hobby you enjoy. What are the key differences?
+702,공연 보기,6,공연 보기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,"If you couldn’t enjoy watching performances anymore, what would you replace it with and why?"
+703,자원봉사,5,자원봉사를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How has your interest in volunteering changed over time?
+704,해외 여행,5,해외 여행와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,Have you ever recommended international travel to someone? What was their reaction?
+705,농구,4,농구를 하게 된 특별한 계기가 있었나요?,Do you prefer to do basketball alone or with others? Why?
+706,구직활동하기,4,구직활동하기는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in job hunting and where do you usually go?
+707,친구들과 문자 대화,6,친구들과 문자 대화를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to texting with friends.
+708,신문 읽기,6,신문 읽기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to reading newspapers.
+709,박물관 가기,5,박물관 가기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in visiting museums changed over time?
+710,국내 여행,5,국내 여행와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in domestic travel changed over time?
+711,걷기,6,걷기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare walking with another hobby you enjoy. What are the key differences?
+712,쇼핑하기,6,쇼핑하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy shopping anymore, what would you replace it with and why?"
+713,자전거,4,자전거는 평소에 어떤 방식으로 즐기시나요?,Describe a typical time when you enjoy biking.
+714,요리하기,5,요리하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing cooking regularly?
+715,뉴스를 보거나 듣기,5,뉴스를 보거나 듣기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in watching or listening to news changed over time?
+716,SNS에 글 올리기,6,SNS에 글 올리기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,What social or cultural significance does posting on social media have in your country?
+717,애완동물 키우기,5,애완동물 키우기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing raising pets, and how did you overcome them?"
+718,당구 치기,4,당구 치기를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about playing billiards?
+719,축구,4,축구를 즐기기에 가장 좋은 장소는 어디인가요?,Do you prefer to do soccer alone or with others? Why?
+720,국내출장,6,"국내출장를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to business trips in Korea.
+721,헬스,4,헬스를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start working out and why?
+722,요리 관련 프로그램 시청,4,요리 관련 프로그램 시청를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in watching cooking shows and where do you usually go?
+723,독서,5,독서를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing reading books, and how did you overcome them?"
+724,쇼핑하기,5,쇼핑하기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing shopping regularly?
+725,쇼핑하기,4,쇼핑하기를 즐기기에 가장 좋은 장소는 어디인가요?,Do you prefer to do shopping alone or with others? Why?
+726,구직활동하기,6,구직활동하기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare job hunting with another hobby you enjoy. What are the key differences?
+727,헬스,4,헬스는 평소에 어떤 방식으로 즐기시나요?,What do you enjoy the most about working out?
+728,사진 촬영하기,4,사진 촬영하기를 즐기기에 가장 좋은 장소는 어디인가요?,How often do you engage in taking photos and where do you usually go?
+729,해외 여행,6,해외 여행를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy international travel anymore, what would you replace it with and why?"
+730,"하이킹, 트레킹",6,"하이킹, 트레킹를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?",What social or cultural significance does hiking/trekking have in your country?
+731,체스 하기,5,체스 하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended 체스 하기 to someone? What was their reaction?
+732,사진 촬영하기,5,사진 촬영하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended taking photos to someone? What was their reaction?
+733,미식축구,6,미식축구와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy American football anymore, what would you replace it with and why?"
+734,아이스 스케이트,5,아이스 스케이트를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does ice skating have on your daily life or mood?
+735,낚시,4,낚시는 평소에 어떤 방식으로 즐기시나요?,Do you prefer to do fishing alone or with others? Why?
+736,주식 투자,5,주식 투자를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing stock investing regularly?
+737,글쓰기,4,글쓰기를 즐기기에 가장 좋은 장소는 어디인가요?,How often do you engage in writing and where do you usually go?
+738,그림 그리기,4,그림 그리기는 평소에 어떤 방식으로 즐기시나요?,Do you prefer to do drawing alone or with others? Why?
+739,집에서 보내는 휴가,6,집에서 보내는 휴가와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does staycations have in your country?
+740,아이스 스케이트,6,"아이스 스케이트를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to ice skating.
+741,요리 관련 프로그램 시청,4,요리 관련 프로그램 시청를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do watching cooking shows alone or with others? Why?
+742,해외 여행,4,해외 여행를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start international travel and why?
+743,하키,5,하키와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,What impact does 하키 have on your daily life or mood?
+744,농구,6,농구를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy basketball anymore, what would you replace it with and why?"
+745,애완동물 키우기,6,애완동물 키우기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,How would you introduce raising pets to someone from another country?
+746,집에서 보내는 휴가,4,집에서 보내는 휴가를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy staycations.
+747,야구/소프트볼,5,야구/소프트볼를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing baseball/softball, and how did you overcome them?"
+748,야구/소프트볼,6,야구/소프트볼를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,What social or cultural significance does baseball/softball have in your country?
+749,애완동물 키우기,6,애완동물 키우기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to raising pets.
+750,미식축구,4,미식축구를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy American football.
+751,주식 투자,5,주식 투자를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in stock investing changed over time?
+752,해외 여행,6,해외 여행를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce international travel to someone from another country?
+753,콘서트 보기,6,콘서트 보기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,What social or cultural significance does attending concerts have in your country?
+754,그림 그리기,5,그림 그리기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing drawing regularly?
+755,주거 개선,6,주거 개선를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce improving living space to someone from another country?
+756,태권도,5,태권도를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,What impact does 태권도 have on your daily life or mood?
+757,스키/스노보드,5,스키/스노보드를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing skiing/snowboarding regularly?
+758,탁구,6,탁구가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to table tennis.
+759,골프,5,골프를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in golf changed over time?
+760,SNS에 글 올리기,6,"SNS에 글 올리기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce posting on social media to someone from another country?
+761,뉴스를 보거나 듣기,5,뉴스를 보거나 듣기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing watching or listening to news regularly?
+762,독서,5,독서와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in reading books changed over time?
+763,조깅,6,"조깅를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to jogging.
+764,클럽/나이트클럽 가기,5,클럽/나이트클럽 가기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing going to clubs or nightclubs regularly?
+765,클럽/나이트클럽 가기,6,클럽/나이트클럽 가기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does going to clubs or nightclubs have in your country?
+766,리얼리티 쇼 시청,6,리얼리티 쇼 시청가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare watching reality shows with another hobby you enjoy. What are the key differences?
+767,배드민턴,6,"배드민턴를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce badminton to someone from another country?
+768,국내 여행,5,국내 여행를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does domestic travel have on your daily life or mood?
+769,TV시청 하기,6,TV시청 하기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,How would you introduce watching TV to someone from another country?
+770,차 드라이브 하기,6,차 드라이브 하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,How would you introduce driving to someone from another country?
+771,해외 여행,4,해외 여행를 하게 된 특별한 계기가 있었나요?,How often do you engage in international travel and where do you usually go?
+772,자전거,6,"자전거를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does biking have in your country?
+773,아이에게 책 읽어주기,4,아이에게 책 읽어주기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about reading to children?
+774,배드민턴,5,배드민턴를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How has your interest in badminton changed over time?
+775,아이스 스케이트,4,아이스 스케이트를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do ice skating alone or with others? Why?
+776,크로켓,4,크로켓를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in croquet and where do you usually go?
+777,카페/커피전문점 가기,4,카페/커피전문점 가기를 하게 된 특별한 계기가 있었나요?,How often do you engage in visiting cafes and where do you usually go?
+778,크로켓,6,크로켓를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce croquet to someone from another country?
+779,캠핑 하기,5,캠핑 하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing camping regularly?
+780,그림 그리기,5,그림 그리기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended drawing to someone? What was their reaction?
+781,하키,5,하키를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing 하키 regularly?
+782,스키/스노보드,4,스키/스노보드를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in skiing/snowboarding and where do you usually go?
+783,카페/커피전문점 가기,4,카페/커피전문점 가기를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy visiting cafes.
+784,신문 읽기,6,신문 읽기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,How would you introduce reading newspapers to someone from another country?
+785,애완동물 키우기,4,애완동물 키우기를 하게 된 특별한 계기가 있었나요?,Do you prefer to do raising pets alone or with others? Why?
+786,국내 여행,4,국내 여행를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,How often do you engage in domestic travel and where do you usually go?
+787,걷기,5,걷기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,"What challenges have you faced while doing walking, and how did you overcome them?"
+788,뉴스를 보거나 듣기,5,뉴스를 보거나 듣기를 꾸준히 하기 위해 어떤 노력을 하시나요?,Have you ever recommended watching or listening to news to someone? What was their reaction?
+789,클럽/나이트클럽 가기,4,클럽/나이트클럽 가기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,How often do you engage in going to clubs or nightclubs and where do you usually go?
+790,미식축구,5,미식축구를 꾸준히 하기 위해 어떤 노력을 하시나요?,Have you ever recommended American football to someone? What was their reaction?
+791,주거 개선,4,주거 개선를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start improving living space and why?
+792,헬스,6,"헬스를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does working out have in your country?
+793,구직활동하기,5,구직활동하기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended job hunting to someone? What was their reaction?
+794,자전거,6,자전거를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce biking to someone from another country?
+795,독서,6,독서가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,What social or cultural significance does reading books have in your country?
+796,요리하기,5,요리하기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,"What challenges have you faced while doing cooking, and how did you overcome them?"
+797,공연 보기,6,공연 보기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,How would you introduce watching performances to someone from another country?
+798,집에서 보내는 휴가,6,집에서 보내는 휴가가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare staycations with another hobby you enjoy. What are the key differences?
+799,친구들과 문자 대화,5,친구들과 문자 대화와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,Have you ever recommended texting with friends to someone? What was their reaction?
+800,애완동물 키우기,5,애완동물 키우기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in raising pets changed over time?
+801,독서,6,"독서를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Compare reading books with another hobby you enjoy. What are the key differences?
+802,테니스,4,테니스를 하게 된 특별한 계기가 있었나요?,Do you prefer to do tennis alone or with others? Why?
+803,글쓰기,4,글쓰기를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy writing.
+804,뉴스를 보거나 듣기,6,뉴스를 보거나 듣기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to watching or listening to news.
+805,차 드라이브 하기,4,차 드라이브 하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do driving alone or with others? Why?
+806,박물관 가기,4,박물관 가기를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about visiting museums?
+807,구직활동하기,4,구직활동하기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do job hunting alone or with others? Why?
+808,집에서 보내는 휴가,6,집에서 보내는 휴가와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy staycations anymore, what would you replace it with and why?"
+809,크로켓,5,크로켓를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended croquet to someone? What was their reaction?
+810,크로켓,5,크로켓를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing croquet regularly?
+811,크로켓,5,크로켓를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does croquet have on your daily life or mood?
+812,조깅,5,조깅와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How do you balance your schedule to continue doing jogging regularly?
+813,탁구,4,탁구를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in table tennis and where do you usually go?
+814,집에서 보내는 휴가,4,집에서 보내는 휴가는 평소에 어떤 방식으로 즐기시나요?,What do you enjoy the most about staycations?
+815,해외출장,6,해외출장와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy business trips abroad anymore, what would you replace it with and why?"
+816,헬스,6,헬스가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to working out.
+817,글쓰기,6,"글쓰기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce writing to someone from another country?
+818,자원봉사,6,자원봉사가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,What social or cultural significance does volunteering have in your country?
+819,자원봉사,5,자원봉사와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,"What challenges have you faced while doing volunteering, and how did you overcome them?"
+820,요리하기,6,요리하기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare cooking with another hobby you enjoy. What are the key differences?
+821,게임하기,5,게임하기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing 게임하기 regularly?
+822,콘서트 보기,5,콘서트 보기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended attending concerts to someone? What was their reaction?
+823,카페/커피전문점 가기,6,카페/커피전문점 가기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does visiting cafes have in your country?
+824,악기 연주하기,4,악기 연주하기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do playing musical instruments alone or with others? Why?
+825,신문 읽기,4,신문 읽기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do reading newspapers alone or with others? Why?
+826,음악 감상하기,5,음악 감상하기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended listening to music to someone? What was their reaction?
+827,공연 보기,4,공연 보기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do watching performances alone or with others? Why?
+828,걷기,5,걷기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended walking to someone? What was their reaction?
+829,공원 가기,5,공원 가기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended going to parks to someone? What was their reaction?
+830,집에서 보내는 휴가,5,집에서 보내는 휴가와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,What impact does staycations have on your daily life or mood?
+831,쇼핑하기,6,"쇼핑하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does shopping have in your country?
+832,국내 여행,4,국내 여행를 즐기기에 가장 좋은 장소는 어디인가요?,Do you prefer to do domestic travel alone or with others? Why?
+833,당구 치기,6,당구 치기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare playing billiards with another hobby you enjoy. What are the key differences?
+834,TV시청 하기,5,TV시청 하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in watching TV changed over time?
+835,골프,4,골프를 하게 된 특별한 계기가 있었나요?,When did you first start golf and why?
+836,게임하기,5,게임하기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in 게임하기 changed over time?
+837,농구,5,농구를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing basketball regularly?
+838,축구,5,축구를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,What impact does soccer have on your daily life or mood?
+839,클럽/나이트클럽 가기,5,클럽/나이트클럽 가기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended going to clubs or nightclubs to someone? What was their reaction?
+840,캠핑 하기,6,캠핑 하기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,What social or cultural significance does camping have in your country?
+841,당구 치기,4,당구 치기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start playing billiards and why?
+842,시험 대비 과정 수강,6,"시험 대비 과정 수강를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does taking test prep courses have in your country?
+843,악기 연주하기,4,악기 연주하기를 즐기기에 가장 좋은 장소는 어디인가요?,How often do you engage in playing musical instruments and where do you usually go?
+844,야구/소프트볼,6,야구/소프트볼를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to baseball/softball.
+845,조깅,4,조깅를 즐기기에 가장 좋은 장소는 어디인가요?,How often do you engage in jogging and where do you usually go?
+846,헬스,4,헬스를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do working out alone or with others? Why?
+847,골프,5,골프를 꾸준히 하기 위해 어떤 노력을 하시나요?,Have you ever recommended golf to someone? What was their reaction?
+848,수영,4,수영를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do swimming alone or with others? Why?
+849,탁구,4,탁구를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy table tennis.
+850,클럽/나이트클럽 가기,4,클럽/나이트클럽 가기는 평소에 어떤 방식으로 즐기시나요?,Describe a typical time when you enjoy going to clubs or nightclubs.
+851,공연 보기,4,공연 보기를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy watching performances.
+852,수영,5,수영를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended swimming to someone? What was their reaction?
+853,친구들과 문자 대화,4,친구들과 문자 대화를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Describe a typical time when you enjoy texting with friends.
+854,요가,6,요가와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce yoga to someone from another country?
+855,하키,4,하키는 평소에 어떤 방식으로 즐기시나요?,How often do you engage in 하키 and where do you usually go?
+856,걷기,6,"걷기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to walking.
+857,카페/커피전문점 가기,5,카페/커피전문점 가기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended visiting cafes to someone? What was their reaction?
+858,SNS에 글 올리기,5,SNS에 글 올리기를 꾸준히 하기 위해 어떤 노력을 하시나요?,Have you ever recommended posting on social media to someone? What was their reaction?
+859,아이에게 책 읽어주기,6,아이에게 책 읽어주기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare reading to children with another hobby you enjoy. What are the key differences?
+860,쇼핑하기,5,쇼핑하기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,What impact does shopping have on your daily life or mood?
+861,콘서트 보기,5,콘서트 보기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in attending concerts changed over time?
+862,악기 연주하기,6,악기 연주하기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does playing musical instruments have in your country?
+863,배드민턴,4,배드민턴를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do badminton alone or with others? Why?
+864,글쓰기,5,글쓰기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing writing regularly?
+865,요리하기,5,요리하기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in cooking changed over time?
+866,요가,5,요가를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in yoga changed over time?
+867,자전거,4,자전거를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do biking alone or with others? Why?
+868,혼자 노래 부르거나 합창,5,혼자 노래 부르거나 합창를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in singing alone or in choir changed over time?
+869,배드민턴,6,배드민턴를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to badminton.
+870,요가,4,요가를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy yoga.
+871,사진 촬영하기,6,사진 촬영하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to taking photos.
+872,운동 수업 수강하기,6,운동 수업 수강하기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare taking fitness classes with another hobby you enjoy. What are the key differences?
+873,아이스 스케이트,6,아이스 스케이트와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce ice skating to someone from another country?
+874,걷기,6,걷기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy walking anymore, what would you replace it with and why?"
+875,아이에게 책 읽어주기,5,아이에게 책 읽어주기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended reading to children to someone? What was their reaction?
+876,스키/스노보드,5,스키/스노보드를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in skiing/snowboarding changed over time?
+877,축구,6,"축구를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to soccer.
+878,사진 촬영하기,6,사진 촬영하기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,What social or cultural significance does taking photos have in your country?
+879,구직활동하기,6,구직활동하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does job hunting have in your country?
+880,박물관 가기,4,박물관 가기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do visiting museums alone or with others? Why?
+881,탁구,5,탁구와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,What impact does table tennis have on your daily life or mood?
+882,주거 개선,5,주거 개선를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing improving living space regularly?
+883,콘서트 보기,4,콘서트 보기를 하게 된 특별한 계기가 있었나요?,How often do you engage in attending concerts and where do you usually go?
+884,태권도,4,태권도를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,How often do you engage in 태권도 and where do you usually go?
+885,배구,5,배구를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in volleyball changed over time?
+886,배드민턴,4,배드민턴를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy badminton.
+887,친구들과 문자 대화,4,친구들과 문자 대화를 즐기기에 가장 좋은 장소는 어디인가요?,How often do you engage in texting with friends and where do you usually go?
+888,낚시,6,낚시와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,What social or cultural significance does fishing have in your country?
+889,낚시,5,낚시를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended fishing to someone? What was their reaction?
+890,골프,6,골프와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to golf.
+891,집에서 보내는 휴가,4,집에서 보내는 휴가를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,Do you prefer to do staycations alone or with others? Why?
+892,뉴스를 보거나 듣기,4,뉴스를 보거나 듣기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about watching or listening to news?
+893,배구,5,배구와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,What impact does volleyball have on your daily life or mood?
+894,농구,5,농구를 꾸준히 하기 위해 어떤 노력을 하시나요?,Have you ever recommended basketball to someone? What was their reaction?
+895,스키/스노보드,6,"스키/스노보드를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does skiing/snowboarding have in your country?
+896,낚시,6,낚시를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Describe a memorable or unusual experience related to fishing.
+897,해외 여행,4,해외 여행를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do international travel alone or with others? Why?
+898,운동 수업 수강하기,5,운동 수업 수강하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,What impact does taking fitness classes have on your daily life or mood?
+899,그림 그리기,6,그림 그리기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,How would you introduce drawing to someone from another country?
+900,"하이킹, 트레킹",4,"하이킹, 트레킹는 평소에 어떤 방식으로 즐기시나요?",How often do you engage in hiking/trekking and where do you usually go?
+901,골프,6,"골프를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Compare golf with another hobby you enjoy. What are the key differences?
+902,태권도,5,태권도와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,"What challenges have you faced while doing 태권도, and how did you overcome them?"
+903,당구 치기,6,당구 치기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to playing billiards.
+904,"하이킹, 트레킹",4,"하이킹, 트레킹를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?",What do you enjoy the most about hiking/trekking?
+905,국내 여행,5,국내 여행를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended domestic travel to someone? What was their reaction?
+906,테니스,6,"테니스를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does tennis have in your country?
+907,TV시청 하기,4,TV시청 하기를 즐기기에 가장 좋은 장소는 어디인가요?,Do you prefer to do watching TV alone or with others? Why?
+908,공연 보기,4,공연 보기를 하게 된 특별한 계기가 있었나요?,When did you first start watching performances and why?
+909,박물관 가기,6,박물관 가기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce visiting museums to someone from another country?
+910,신문 읽기,4,신문 읽기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,What do you enjoy the most about reading newspapers?
+911,리얼리티 쇼 시청,6,리얼리티 쇼 시청와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy watching reality shows anymore, what would you replace it with and why?"
+912,야구/소프트볼,4,야구/소프트볼를 즐기기에 가장 좋은 장소는 어디인가요?,Do you prefer to do baseball/softball alone or with others? Why?
+913,태권도,6,"태권도를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy 태권도 anymore, what would you replace it with and why?"
+914,혼자 노래 부르거나 합창,4,혼자 노래 부르거나 합창는 평소에 어떤 방식으로 즐기시나요?,When did you first start singing alone or in choir and why?
+915,수영,6,수영와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy swimming anymore, what would you replace it with and why?"
+916,차 드라이브 하기,6,차 드라이브 하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy driving anymore, what would you replace it with and why?"
+917,미식축구,6,"미식축구를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Describe a memorable or unusual experience related to American football.
+918,그림 그리기,6,그림 그리기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,What social or cultural significance does drawing have in your country?
+919,주거 개선,5,주거 개선를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How has your interest in improving living space changed over time?
+920,캠핑 하기,6,캠핑 하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare camping with another hobby you enjoy. What are the key differences?
+921,리얼리티 쇼 시청,5,리얼리티 쇼 시청를 꾸준히 하기 위해 어떤 노력을 하시나요?,How do you balance your schedule to continue doing watching reality shows regularly?
+922,주거 개선,5,주거 개선를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing improving living space, and how did you overcome them?"
+923,축구,4,축구를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy soccer.
+924,구직활동하기,5,구직활동하기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in job hunting changed over time?
+925,차 드라이브 하기,5,차 드라이브 하기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How do you balance your schedule to continue doing driving regularly?
+926,악기 연주하기,4,악기 연주하기를 하게 된 특별한 계기가 있었나요?,Describe a typical time when you enjoy playing musical instruments.
+927,뉴스를 보거나 듣기,5,뉴스를 보거나 듣기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing watching or listening to news, and how did you overcome them?"
+928,농구,6,농구를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce basketball to someone from another country?
+929,해외 여행,6,해외 여행가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Compare international travel with another hobby you enjoy. What are the key differences?
+930,테니스,5,테니스를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in tennis changed over time?
+931,요리 관련 프로그램 시청,5,요리 관련 프로그램 시청를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing watching cooking shows, and how did you overcome them?"
+932,리얼리티 쇼 시청,5,리얼리티 쇼 시청를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended watching reality shows to someone? What was their reaction?
+933,TV시청 하기,6,"TV시청 하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does watching TV have in your country?
+934,아이에게 책 읽어주기,5,아이에게 책 읽어주기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,What impact does reading to children have on your daily life or mood?
+935,혼자 노래 부르거나 합창,6,혼자 노래 부르거나 합창가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy singing alone or in choir anymore, what would you replace it with and why?"
+936,자전거,5,자전거를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended biking to someone? What was their reaction?
+937,하키,6,하키와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,"If you couldn’t enjoy 하키 anymore, what would you replace it with and why?"
+938,공연 보기,6,공연 보기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to watching performances.
+939,걷기,4,걷기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about walking?
+940,시험 대비 과정 수강,6,"시험 대비 과정 수강를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy taking test prep courses anymore, what would you replace it with and why?"
+941,그림 그리기,5,그림 그리기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,How has your interest in drawing changed over time?
+942,SNS에 글 올리기,5,SNS에 글 올리기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does posting on social media have on your daily life or mood?
+943,체스 하기,6,체스 하기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,Compare 체스 하기 with another hobby you enjoy. What are the key differences?
+944,집에서 보내는 휴가,6,"집에서 보내는 휴가를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce staycations to someone from another country?
+945,게임하기,6,게임하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare 게임하기 with another hobby you enjoy. What are the key differences?
+946,뉴스를 보거나 듣기,4,뉴스를 보거나 듣기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy watching or listening to news.
+947,신문 읽기,5,신문 읽기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,"What challenges have you faced while doing reading newspapers, and how did you overcome them?"
+948,배드민턴,6,배드민턴가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,What social or cultural significance does badminton have in your country?
+949,박물관 가기,5,박물관 가기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended visiting museums to someone? What was their reaction?
+950,춤추기,4,춤추기를 하게 된 특별한 계기가 있었나요?,Do you prefer to do dancing alone or with others? Why?
+951,집에서 보내는 휴가,5,집에서 보내는 휴가를 꾸준히 하기 위해 어떤 노력을 하시나요?,Have you ever recommended staycations to someone? What was their reaction?
+952,뉴스를 보거나 듣기,6,"뉴스를 보거나 듣기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",What social or cultural significance does watching or listening to news have in your country?
+953,자전거,5,자전거를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How do you balance your schedule to continue doing biking regularly?
+954,수영,5,수영와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,"What challenges have you faced while doing swimming, and how did you overcome them?"
+955,사진 촬영하기,6,사진 촬영하기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Compare taking photos with another hobby you enjoy. What are the key differences?
+956,술집/바에 가기,4,술집/바에 가기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in going to pubs or bars and where do you usually go?
+957,사진 촬영하기,6,사진 촬영하기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,"If you couldn’t enjoy taking photos anymore, what would you replace it with and why?"
+958,여행 관련 잡지나 블로그 읽기,4,여행 관련 잡지나 블로그 읽기를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy reading travel blogs or magazines.
+959,국내 여행,6,국내 여행와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Compare domestic travel with another hobby you enjoy. What are the key differences?
+960,영화 보기,5,영화 보기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,How has your interest in watching movies changed over time?
+961,해외출장,4,해외출장를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,What do you enjoy the most about business trips abroad?
+962,체스 하기,6,"체스 하기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy 체스 하기 anymore, what would you replace it with and why?"
+963,글쓰기,4,글쓰기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start writing and why?
+964,구직활동하기,5,구직활동하기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,"What challenges have you faced while doing job hunting, and how did you overcome them?"
+965,애완동물 키우기,5,애완동물 키우기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,Have you ever recommended raising pets to someone? What was their reaction?
+966,조깅,6,"조깅를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy jogging anymore, what would you replace it with and why?"
+967,"하이킹, 트레킹",5,"하이킹, 트레킹를 할 때 가장 성취감을 느끼는 순간은 언제인가요?",How has your interest in hiking/trekking changed over time?
+968,운동 수업 수강하기,6,운동 수업 수강하기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to taking fitness classes.
+969,SNS에 글 올리기,5,SNS에 글 올리기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in posting on social media changed over time?
+970,글쓰기,5,글쓰기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,What impact does writing have on your daily life or mood?
+971,사진 촬영하기,4,사진 촬영하기를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy taking photos.
+972,악기 연주하기,5,악기 연주하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in playing musical instruments changed over time?
+973,춤추기,6,춤추기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to dancing.
+974,공원 가기,6,공원 가기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,"If you couldn’t enjoy going to parks anymore, what would you replace it with and why?"
+975,신문 읽기,5,신문 읽기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,Have you ever recommended reading newspapers to someone? What was their reaction?
+976,요리하기,4,요리하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in cooking and where do you usually go?
+977,스키/스노보드,4,스키/스노보드를 하게 된 특별한 계기가 있었나요?,Do you prefer to do skiing/snowboarding alone or with others? Why?
+978,여행 관련 잡지나 블로그 읽기,5,여행 관련 잡지나 블로그 읽기를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing reading travel blogs or magazines, and how did you overcome them?"
+979,공원 가기,4,공원 가기를 즐기기에 가장 좋은 장소는 어디인가요?,When did you first start going to parks and why?
+980,독서,6,독서를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy reading books anymore, what would you replace it with and why?"
+981,술집/바에 가기,6,술집/바에 가기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy going to pubs or bars anymore, what would you replace it with and why?"
+982,클럽/나이트클럽 가기,6,클럽/나이트클럽 가기를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,How would you introduce going to clubs or nightclubs to someone from another country?
+983,미식축구,6,미식축구를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,What social or cultural significance does American football have in your country?
+984,뉴스를 보거나 듣기,4,뉴스를 보거나 듣기를 하게 된 특별한 계기가 있었나요?,Do you prefer to do watching or listening to news alone or with others? Why?
+985,하키,4,하키를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy 하키.
+986,요리 관련 프로그램 시청,4,요리 관련 프로그램 시청를 즐기기에 가장 좋은 장소는 어디인가요?,Describe a typical time when you enjoy watching cooking shows.
+987,음악 감상하기,6,음악 감상하기와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,How would you introduce listening to music to someone from another country?
+988,체스 하기,4,체스 하기를 하게 된 특별한 계기가 있었나요?,Do you prefer to do 체스 하기 alone or with others? Why?
+989,크로켓,6,"크로켓를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",Compare croquet with another hobby you enjoy. What are the key differences?
+990,요리하기,4,요리하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start cooking and why?
+991,농구,4,농구를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about basketball?
+992,아이에게 책 읽어주기,4,아이에게 책 읽어주기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Describe a typical time when you enjoy reading to children.
+993,낚시,5,낚시를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,"What challenges have you faced while doing fishing, and how did you overcome them?"
+994,농구,6,농구와 관련된 커뮤니티 활동이나 단체 참여 경험이 있다면 소개해 주세요.,Describe a memorable or unusual experience related to basketball.
+995,게임하기,6,게임하기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,"If you couldn’t enjoy 게임하기 anymore, what would you replace it with and why?"
+996,차 드라이브 하기,5,차 드라이브 하기를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How has your interest in driving changed over time?
+997,캠핑 하기,5,캠핑 하기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,What impact does camping have on your daily life or mood?
+998,스키/스노보드,5,스키/스노보드와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,Have you ever recommended skiing/snowboarding to someone? What was their reaction?
+999,하키,4,하키를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start 하키 and why?
+1000,야구/소프트볼,4,야구/소프트볼는 평소에 어떤 방식으로 즐기시나요?,When did you first start baseball/softball and why?
+1001,차 드라이브 하기,5,차 드라이브 하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing driving, and how did you overcome them?"
+1002,박물관 가기,4,박물관 가기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in visiting museums and where do you usually go?
+1003,박물관 가기,4,박물관 가기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start visiting museums and why?
+1004,카페/커피전문점 가기,5,카페/커피전문점 가기를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,What impact does visiting cafes have on your daily life or mood?
+1005,악기 연주하기,6,악기 연주하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy playing musical instruments anymore, what would you replace it with and why?"
+1006,TV시청 하기,4,TV시청 하기를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about watching TV?
+1007,영화 보기,5,영화 보기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,What impact does watching movies have on your daily life or mood?
+1008,춤추기,4,춤추기를 하게 된 특별한 계기가 있었나요?,When did you first start dancing and why?
+1009,요리 관련 프로그램 시청,6,요리 관련 프로그램 시청를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce watching cooking shows to someone from another country?
+1010,친구들과 문자 대화,5,친구들과 문자 대화를 할 때 가장 성취감을 느끼는 순간은 언제인가요?,What impact does texting with friends have on your daily life or mood?
+1011,게임하기,5,게임하기를 꾸준히 하기 위해 어떤 노력을 하시나요?,"What challenges have you faced while doing 게임하기, and how did you overcome them?"
+1012,테니스,5,테니스를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing tennis, and how did you overcome them?"
+1013,글쓰기,5,글쓰기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in writing changed over time?
+1014,아이스 스케이트,4,아이스 스케이트를 하게 된 특별한 계기가 있었나요?,When did you first start ice skating and why?
+1015,TV시청 하기,4,TV시청 하기를 즐기기에 가장 좋은 장소는 어디인가요?,How often do you engage in watching TV and where do you usually go?
+1016,아이에게 책 읽어주기,4,아이에게 책 읽어주기는 평소에 어떤 방식으로 즐기시나요?,Do you prefer to do reading to children alone or with others? Why?
+1017,영화 보기,4,영화 보기를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,When did you first start watching movies and why?
+1018,친구들과 문자 대화,6,친구들과 문자 대화가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy texting with friends anymore, what would you replace it with and why?"
+1019,하키,5,하키를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,Have you ever recommended 하키 to someone? What was their reaction?
+1020,테니스,5,테니스를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended tennis to someone? What was their reaction?
+1021,주식 투자,6,주식 투자가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,How would you introduce stock investing to someone from another country?
+1022,그림 그리기,4,그림 그리기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start drawing and why?
+1023,스키/스노보드,5,스키/스노보드를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing skiing/snowboarding, and how did you overcome them?"
+1024,배구,5,배구를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,"What challenges have you faced while doing volleyball, and how did you overcome them?"
+1025,자원봉사,4,자원봉사를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,When did you first start volunteering and why?
+1026,TV시청 하기,6,TV시청 하기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,Describe a memorable or unusual experience related to watching TV.
+1027,공연 보기,4,공연 보기를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about watching performances?
+1028,그림 그리기,6,그림 그리기가 다른 사람들과 교류하는 데 어떤 역할을 했는지 구체적으로 말씀해 주세요.,"If you couldn’t enjoy drawing anymore, what would you replace it with and why?"
+1029,당구 치기,5,당구 치기와 관련된 특별한 기억이나 에피소드가 있다면 말씀해 주세요.,How has your interest in playing billiards changed over time?
+1030,탁구,4,탁구를 하게 된 특별한 계기가 있었나요?,What do you enjoy the most about table tennis?
+1031,요리 관련 프로그램 시청,6,요리 관련 프로그램 시청를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,"If you couldn’t enjoy watching cooking shows anymore, what would you replace it with and why?"
+1032,낚시,5,낚시를 통해 자신이 성장했다고 느낀 적이 있나요? 어떤 점에서 그렇다고 느끼셨나요?,How do you balance your schedule to continue doing fishing regularly?
+1033,농구,5,농구를 꾸준히 하기 위해 어떤 노력을 하시나요?,How has your interest in basketball changed over time?
+1034,애완동물 키우기,6,애완동물 키우기를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,"If you couldn’t enjoy raising pets anymore, what would you replace it with and why?"
+1035,축구,4,축구를 즐기기에 가장 좋은 장소는 어디인가요?,What do you enjoy the most about soccer?
+1036,요가,4,요가를 하면서 느끼는 감정을 구체적으로 설명해 주세요.,Do you prefer to do yoga alone or with others? Why?
+1037,자원봉사,5,자원봉사를 하면서 생긴 사회적 관계나 인연이 있다면 어떤 것이 있나요?,Have you ever recommended volunteering to someone? What was their reaction?
+1038,배구,5,배구를 꾸준히 하기 위해 어떤 노력을 하시나요?,Have you ever recommended volleyball to someone? What was their reaction?
+1039,조깅,6,조깅를 통해 알게 된 자신만의 강점이나 능력이 있다면 무엇인가요?,How would you introduce jogging to someone from another country?
+1040,음악 감상하기,4,음악 감상하기를 즐길 때 필요한 물건이나 도구가 있다면 어떤 것이 있나요?,How often do you engage in listening to music and where do you usually go?
+1041,공원 가기,6,"공원 가기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.",How would you introduce going to parks to someone from another country?
+1042,영화 보기,6,"영화 보기를 중단했던 적이 있다면, 그 이유와 다시 시작하게 된 계기를 말씀해 주세요.","If you couldn’t enjoy watching movies anymore, what would you replace it with and why?"
+1043,해외 여행,6,해외 여행를 통해 삶의 태도나 가치관이 바뀐 경험이 있다면 말씀해 주세요.,Describe a memorable or unusual experience related to international travel.

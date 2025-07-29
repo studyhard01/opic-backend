@@ -1,0 +1,123 @@
+﻿id,condition,level,question_kr,question_en
+1,학원 과정 수업,4,어떤 학원에서 수업을 들으셨나요?,Which academy did you attend?
+2,전문 기술 향상을 위한 평생 학습,5,무슨 기술을 배우기 위해 수업을 들으셨나요?,What skill were you trying to improve?
+3,전문 기술 향상을 위한 평생 학습,5,"수업 중 어려웠던 점은 무엇이었고, 어떻게 극복하셨나요?","What challenges did you face in the class, and how did you overcome them?"
+4,전문 기술 향상을 위한 평생 학습,5,그 수업을 통해 달라진 점이 있다면 무엇인가요?,How did the class change you or your perspective?
+5,전문 기술 향상을 위한 평생 학습,6,강의의 효과를 높이기 위해 본인이 따로 했던 학습 방법이 있다면 설명해 주세요.,Did you use any learning strategies to enhance your understanding of the class?
+6,어학 수업,5,그 수업을 통해 달라진 점이 있다면 무엇인가요?,How did the class change you or your perspective?
+7,어학 수업,4,최근에 들은 수업에서 가장 인상 깊었던 내용을 말해 주세요.,What was the most memorable part of a class you recently took?
+8,학위 과정 수업,5,그 수업을 통해 달라진 점이 있다면 무엇인가요?,How did the class change you or your perspective?
+9,어학 수업,6,그 수업 내용을 다른 사람에게 소개하거나 가르쳐본 적이 있나요? 어떤 방식으로 했나요?,Have you ever introduced or taught what you learned to others? How did you do it?
+10,전문 기술 향상을 위한 평생 학습,4,강의 중 가장 흥미로웠던 주제는 무엇이었나요?,What topic did you find most interesting during the lecture?
+11,학위 과정 수업,5,수업을 통해 배운 내용을 실생활에 적용한 경험이 있다면 말씀해 주세요.,Have you ever applied what you learned in class to your real life?
+12,학위 과정 수업,4,그 수업을 어떤 계기로 듣게 되었나요?,What led you to take that class?
+13,학위 과정 수업,5,수업의 가장 큰 장점은 무엇이라고 생각하시나요?,What do you think was the greatest benefit of the class?
+14,학위 과정 수업,5,수업 중 교수님이나 강사의 스타일은 어땠나요?,How would you describe the teaching style of the instructor?
+15,전문 기술 향상을 위한 평생 학습,6,수업이 본인의 커리어에 어떤 영향을 주었나요?,How did the class impact your career?
+16,전문 기술 향상을 위한 평생 학습,4,수업 중 가장 기억에 남는 활동은 무엇이었나요?,What was the most memorable activity during the class?
+17,전문 기술 향상을 위한 평생 학습,5,수업의 가장 큰 장점은 무엇이라고 생각하시나요?,What do you think was the greatest benefit of the class?
+18,학위 과정 수업,5,수업의 가장 큰 장점은 무엇이라고 생각하시나요?,What do you think was the greatest benefit of the class?
+19,전문 기술 향상을 위한 평생 학습,5,수업 중 교수님이나 강사의 스타일은 어땠나요?,How would you describe the teaching style of the instructor?
+20,학위 과정 수업,4,수업 장소나 환경에 대해 이야기해 주세요.,Tell me about the class location or environment.
+21,전문 기술 향상을 위한 평생 학습,5,수업 중 교수님이나 강사의 스타일은 어땠나요?,How would you describe the teaching style of the instructor?
+22,어학 수업,4,수업 중 가장 기억에 남는 활동은 무엇이었나요?,What was the most memorable activity during the class?
+23,어학 수업,4,수업 장소나 환경에 대해 이야기해 주세요.,Tell me about the class location or environment.
+24,학위 과정 수업,5,수업을 들으면서 새롭게 알게 된 점은 무엇이었나요?,What is something new you learned during the class?
+25,학위 과정 수업,4,수업 중 가장 기억에 남는 활동은 무엇이었나요?,What was the most memorable activity during the class?
+26,전문 기술 향상을 위한 평생 학습,4,수업에서 사용된 자료 중 가장 유익했던 것은 무엇이었나요?,What was the most useful material used in the class?
+27,어학 수업,6,수업이 본인의 커리어에 어떤 영향을 주었나요?,How did the class impact your career?
+28,전문 기술 향상을 위한 평생 학습,5,수업의 가장 큰 장점은 무엇이라고 생각하시나요?,What do you think was the greatest benefit of the class?
+29,학위 과정 수업,4,수업에서 사용된 자료 중 가장 유익했던 것은 무엇이었나요?,What was the most useful material used in the class?
+30,학위 과정 수업,6,수업 외에 따로 학습을 진행한 적이 있다면 어떤 방식이었나요?,"Did you study additionally outside the class? If so, how?"
+31,전문 기술 향상을 위한 평생 학습,4,수업 장소나 환경에 대해 이야기해 주세요.,Tell me about the class location or environment.
+32,어학 수업,5,수업을 들으면서 새롭게 알게 된 점은 무엇이었나요?,What is something new you learned during the class?
+33,전문 기술 향상을 위한 평생 학습,6,수업 내용 중 실제 업무나 생활에 적용해 본 사례가 있다면 설명해 주세요.,Have you applied anything from the class to your real job or life? Please explain.
+34,어학 수업,6,수업 내용 중 실제 업무나 생활에 적용해 본 사례가 있다면 설명해 주세요.,Have you applied anything from the class to your real job or life? Please explain.
+35,전문 기술 향상을 위한 평생 학습,6,"같은 수업을 추천한다면, 누구에게 추천하고 어떤 이유 때문인가요?","If you were to recommend the class, who would it be for and why?"
+36,학위 과정 수업,6,수업 내용 중 실제 업무나 생활에 적용해 본 사례가 있다면 설명해 주세요.,Have you applied anything from the class to your real job or life? Please explain.
+37,어학 수업,4,그 수업을 듣게 된 계기는 무엇인가요?,What motivated you to take that class?
+38,어학 수업,5,"과제를 수행하면서 어려웠던 점은 무엇이었고, 어떻게 해결했나요?","What was the hardest part of the assignment, and how did you solve it?"
+39,어학 수업,4,수업에서 사용된 자료 중 가장 유익했던 것은 무엇이었나요?,What was the most useful material used in the class?
+40,전문 기술 향상을 위한 평생 학습,5,"과제를 수행하면서 어려웠던 점은 무엇이었고, 어떻게 해결했나요?","What was the hardest part of the assignment, and how did you solve it?"
+41,어학 수업,6,수업 외에 따로 학습을 진행한 적이 있다면 어떤 방식이었나요?,"Did you study additionally outside the class? If so, how?"
+42,전문 기술 향상을 위한 평생 학습,5,수업 중 교수님이나 강사의 스타일은 어땠나요?,How would you describe the teaching style of the instructor?
+43,어학 수업,6,강의를 듣고 나서 관련 분야에 더 깊이 있는 학습을 해 본 적이 있나요?,"After the class, have you studied more deeply in the related field?"
+44,어학 수업,5,수업 내용 중 본인의 관심 분야와 관련 있는 부분이 있었나요?,Was any part of the class related to your area of interest?
+45,학위 과정 수업,5,평가 방식에 대해 어떻게 생각하셨나요?,What did you think about the way the class was assessed?
+46,어학 수업,5,같은 주제로 다른 강의를 듣는다면 어떤 부분을 더 배우고 싶나요?,"If you take another class on the same topic, what would you like to learn more about?"
+47,어학 수업,4,수업 중 도움이 되었던 활동이나 과제가 있었나요?,Was there any activity or assignment during the class that helped you a lot?
+48,학위 과정 수업,6,그 수업을 통해 성장했다고 느낀 순간은 언제였나요?,When did you feel that you had grown or improved through the class?
+49,학위 과정 수업,4,수업에서 사용된 예시나 사례 중 가장 흥미로웠던 것은 무엇이었나요?,What was the most interesting example or case used in the class?
+50,학위 과정 수업,4,수업에서 사용된 예시나 사례 중 가장 흥미로웠던 것은 무엇이었나요?,What was the most interesting example or case used in the class?
+51,어학 수업,6,수업이 끝난 후에도 관련 내용을 복습하거나 응용해본 적이 있나요?,Have you reviewed or applied the content of the class even after it ended?
+52,어학 수업,4,수업에서 사용된 예시나 사례 중 가장 흥미로웠던 것은 무엇이었나요?,What was the most interesting example or case used in the class?
+53,학위 과정 수업,6,수업을 들으면서 직접 프로젝트를 진행한 경험이 있다면 말씀해 주세요.,Did you ever work on a project as part of the class? Please describe your experience.
+54,어학 수업,5,수업 내용 중 본인의 관심 분야와 관련 있는 부분이 있었나요?,Was any part of the class related to your area of interest?
+55,어학 수업,5,수업 내용 중 본인의 관심 분야와 관련 있는 부분이 있었나요?,Was any part of the class related to your area of interest?
+56,전문 기술 향상을 위한 평생 학습,6,어학 수업 중 실제로 외국인과 대화해 본 경험이 있다면 말씀해 주세요.,Have you ever had a conversation with a foreigner during or after a language class?
+57,전문 기술 향상을 위한 평생 학습,5,그 수업을 통해 가장 인상 깊게 배운 개념이나 기술은 무엇이었나요?,What was the most impressive concept or skill you learned from the class?
+58,어학 수업,5,수업 내용 중 본인의 관심 분야와 관련 있는 부분이 있었나요?,Was any part of the class related to your area of interest?
+59,학위 과정 수업,4,수업에서 사용된 예시나 사례 중 가장 흥미로웠던 것은 무엇이었나요?,What was the most interesting example or case used in the class?
+60,어학 수업,4,"수업 분위기는 어땠고, 본인이 어떻게 참여했나요?",What was the class atmosphere like and how did you participate?
+61,어학 수업,4,수업에서 사용된 예시나 사례 중 가장 흥미로웠던 것은 무엇이었나요?,What was the most interesting example or case used in the class?
+62,학위 과정 수업,6,어학 수업 중 실제로 외국인과 대화해 본 경험이 있다면 말씀해 주세요.,Have you ever had a conversation with a foreigner during or after a language class?
+63,학위 과정 수업,6,수업을 들으면서 직접 프로젝트를 진행한 경험이 있다면 말씀해 주세요.,Did you ever work on a project as part of the class? Please describe your experience.
+64,어학 수업,4,"수업 분위기는 어땠고, 본인이 어떻게 참여했나요?",What was the class atmosphere like and how did you participate?
+65,전문 기술 향상을 위한 평생 학습,4,강의 시간 외에 친구들과 학습했던 경험이 있다면 말씀해 주세요.,Have you ever studied the class material with friends outside of class?
+66,전문 기술 향상을 위한 평생 학습,4,수업에서 사용된 예시나 사례 중 가장 흥미로웠던 것은 무엇이었나요?,What was the most interesting example or case used in the class?
+67,전문 기술 향상을 위한 평생 학습,5,수업 내용 중 본인의 관심 분야와 관련 있는 부분이 있었나요?,Was any part of the class related to your area of interest?
+68,학위 과정 수업,6,그 수업을 통해 성장했다고 느낀 순간은 언제였나요?,When did you feel that you had grown or improved through the class?
+69,어학 수업,6,강의를 듣고 나서 관련 분야에 더 깊이 있는 학습을 해 본 적이 있나요?,"After the class, have you studied more deeply in the related field?"
+70,전문 기술 향상을 위한 평생 학습,6,수업이 끝난 후에도 관련 내용을 복습하거나 응용해본 적이 있나요?,Have you reviewed or applied the content of the class even after it ended?
+71,어학 수업,4,수업 중 도움이 되었던 활동이나 과제가 있었나요?,Was there any activity or assignment during the class that helped you a lot?
+72,전문 기술 향상을 위한 평생 학습,5,평가 방식에 대해 어떻게 생각하셨나요?,What did you think about the way the class was assessed?
+73,전문 기술 향상을 위한 평생 학습,4,강의 시간 외에 친구들과 학습했던 경험이 있다면 말씀해 주세요.,Have you ever studied the class material with friends outside of class?
+74,학위 과정 수업,6,강의를 듣고 나서 관련 분야에 더 깊이 있는 학습을 해 본 적이 있나요?,"After the class, have you studied more deeply in the related field?"
+75,어학 수업,6,강의를 듣고 나서 관련 분야에 더 깊이 있는 학습을 해 본 적이 있나요?,"After the class, have you studied more deeply in the related field?"
+76,학위 과정 수업,6,수업을 들으면서 직접 프로젝트를 진행한 경험이 있다면 말씀해 주세요.,Did you ever work on a project as part of the class? Please describe your experience.
+77,학위 과정 수업,5,그 수업을 통해 가장 인상 깊게 배운 개념이나 기술은 무엇이었나요?,What was the most impressive concept or skill you learned from the class?
+78,전문 기술 향상을 위한 평생 학습,5,같은 주제로 다른 강의를 듣는다면 어떤 부분을 더 배우고 싶나요?,"If you take another class on the same topic, what would you like to learn more about?"
+79,학위 과정 수업,6,수업이 끝난 후에도 관련 내용을 복습하거나 응용해본 적이 있나요?,Have you reviewed or applied the content of the class even after it ended?
+80,학위 과정 수업,5,평가 방식에 대해 어떻게 생각하셨나요?,What did you think about the way the class was assessed?
+81,전문 기술 향상을 위한 평생 학습,6,수업이 끝난 후에도 관련 내용을 복습하거나 응용해본 적이 있나요?,Have you reviewed or applied the content of the class even after it ended?
+82,어학 수업,5,같은 주제로 다른 강의를 듣는다면 어떤 부분을 더 배우고 싶나요?,"If you take another class on the same topic, what would you like to learn more about?"
+83,어학 수업,5,수업 내용 중 본인의 관심 분야와 관련 있는 부분이 있었나요?,Was any part of the class related to your area of interest?
+84,학위 과정 수업,4,수업에서 사용된 예시나 사례 중 가장 흥미로웠던 것은 무엇이었나요?,What was the most interesting example or case used in the class?
+85,어학 수업,6,강의를 듣고 나서 관련 분야에 더 깊이 있는 학습을 해 본 적이 있나요?,"After the class, have you studied more deeply in the related field?"
+86,학위 과정 수업,6,강의를 듣고 나서 관련 분야에 더 깊이 있는 학습을 해 본 적이 있나요?,"After the class, have you studied more deeply in the related field?"
+87,전문 기술 향상을 위한 평생 학습,6,수업을 들으면서 직접 프로젝트를 진행한 경험이 있다면 말씀해 주세요.,Did you ever work on a project as part of the class? Please describe your experience.
+88,학위 과정 수업,4,강의 시간 외에 친구들과 학습했던 경험이 있다면 말씀해 주세요.,Have you ever studied the class material with friends outside of class?
+89,학위 과정 수업,4,"수업 분위기는 어땠고, 본인이 어떻게 참여했나요?",What was the class atmosphere like and how did you participate?
+90,어학 수업,5,같은 주제로 다른 강의를 듣는다면 어떤 부분을 더 배우고 싶나요?,"If you take another class on the same topic, what would you like to learn more about?"
+91,전문 기술 향상을 위한 평생 학습,6,수업을 들으면서 직접 프로젝트를 진행한 경험이 있다면 말씀해 주세요.,Did you ever work on a project as part of the class? Please describe your experience.
+92,전문 기술 향상을 위한 평생 학습,5,수업 내용 중 본인의 관심 분야와 관련 있는 부분이 있었나요?,Was any part of the class related to your area of interest?
+93,어학 수업,6,배운 내용을 바탕으로 새롭게 시도한 일이 있다면 무엇이었나요?,What new initiative did you try based on what you learned?
+94,어학 수업,4,그 수업에서 사용된 시청각 자료나 도구 중 기억에 남는 것이 있다면 말씀해 주세요.,Was there a memorable audiovisual aid or tool used in the class?
+95,전문 기술 향상을 위한 평생 학습,4,수업 내용을 더 잘 이해하기 위해 본인이 했던 방법은 무엇인가요?,What method did you use to better understand the class content?
+96,전문 기술 향상을 위한 평생 학습,5,"강사와의 소통 방식은 어땠고, 그게 도움이 되었나요?","How was the communication with the instructor, and was it helpful?"
+97,어학 수업,4,그 수업에서 사용된 시청각 자료나 도구 중 기억에 남는 것이 있다면 말씀해 주세요.,Was there a memorable audiovisual aid or tool used in the class?
+98,전문 기술 향상을 위한 평생 학습,6,수업에서 배운 것을 다른 사람과 협업하는 데 사용한 적이 있나요?,Have you used what you learned in the class to collaborate with others?
+99,학위 과정 수업,5,수업의 흐름이나 구성에 대해 어떻게 느꼈는지 말씀해 주세요.,How did you feel about the flow and structure of the class?
+100,어학 수업,6,수업을 들은 이후 관련 자격증이나 시험을 준비해 본 적이 있다면 말씀해 주세요.,Have you prepared for a related certification or test after taking the class?
+101,학위 과정 수업,6,어학 수업을 듣고 실제로 외국에 나가본 경험이 있다면 이야기해 주세요.,Did you travel abroad after taking the language class? Please tell me about it.
+102,학위 과정 수업,5,그 수업을 통해 실생활에서 달라진 점이 있다면 무엇인가요?,What change did the class make in your daily life?
+103,전문 기술 향상을 위한 평생 학습,6,어학 수업을 듣고 실제로 외국에 나가본 경험이 있다면 이야기해 주세요.,Did you travel abroad after taking the language class? Please tell me about it.
+104,전문 기술 향상을 위한 평생 학습,4,그 수업에서 사용된 시청각 자료나 도구 중 기억에 남는 것이 있다면 말씀해 주세요.,Was there a memorable audiovisual aid or tool used in the class?
+105,학위 과정 수업,6,수업을 들은 이후 관련 자격증이나 시험을 준비해 본 적이 있다면 말씀해 주세요.,Have you prepared for a related certification or test after taking the class?
+106,어학 수업,4,그 수업에서 사용된 시청각 자료나 도구 중 기억에 남는 것이 있다면 말씀해 주세요.,Was there a memorable audiovisual aid or tool used in the class?
+107,학위 과정 수업,5,그 수업을 통해 실생활에서 달라진 점이 있다면 무엇인가요?,What change did the class make in your daily life?
+108,학위 과정 수업,4,수업 시간에 친구들과 함께한 활동이 있다면 어떤 것이었나요?,Did you work with friends during the class? What activity was it?
+109,전문 기술 향상을 위한 평생 학습,5,수업의 흐름이나 구성에 대해 어떻게 느꼈는지 말씀해 주세요.,How did you feel about the flow and structure of the class?
+110,학위 과정 수업,4,그 수업에서 사용된 시청각 자료나 도구 중 기억에 남는 것이 있다면 말씀해 주세요.,Was there a memorable audiovisual aid or tool used in the class?
+111,어학 수업,4,그 수업에서 사용된 시청각 자료나 도구 중 기억에 남는 것이 있다면 말씀해 주세요.,Was there a memorable audiovisual aid or tool used in the class?
+112,학위 과정 수업,5,수업의 흐름이나 구성에 대해 어떻게 느꼈는지 말씀해 주세요.,How did you feel about the flow and structure of the class?
+113,학위 과정 수업,4,수업 내용을 더 잘 이해하기 위해 본인이 했던 방법은 무엇인가요?,What method did you use to better understand the class content?
+114,학위 과정 수업,6,배운 내용을 바탕으로 새롭게 시도한 일이 있다면 무엇이었나요?,What new initiative did you try based on what you learned?
+115,학위 과정 수업,6,어학 수업을 듣고 실제로 외국에 나가본 경험이 있다면 이야기해 주세요.,Did you travel abroad after taking the language class? Please tell me about it.
+116,어학 수업,4,그 수업에서 사용된 시청각 자료나 도구 중 기억에 남는 것이 있다면 말씀해 주세요.,Was there a memorable audiovisual aid or tool used in the class?
+117,전문 기술 향상을 위한 평생 학습,6,어학 수업을 듣고 실제로 외국에 나가본 경험이 있다면 이야기해 주세요.,Did you travel abroad after taking the language class? Please tell me about it.
+118,학위 과정 수업,5,그 수업을 통해 실생활에서 달라진 점이 있다면 무엇인가요?,What change did the class make in your daily life?
+119,전문 기술 향상을 위한 평생 학습,4,수업 내용을 더 잘 이해하기 위해 본인이 했던 방법은 무엇인가요?,What method did you use to better understand the class content?
+120,전문 기술 향상을 위한 평생 학습,4,수업 내용을 더 잘 이해하기 위해 본인이 했던 방법은 무엇인가요?,What method did you use to better understand the class content?
+121,전문 기술 향상을 위한 평생 학습,4,수업 내용을 더 잘 이해하기 위해 본인이 했던 방법은 무엇인가요?,What method did you use to better understand the class content?
+122,학위 과정 수업,4,수업 시간에 친구들과 함께한 활동이 있다면 어떤 것이었나요?,Did you work with friends during the class? What activity was it?
